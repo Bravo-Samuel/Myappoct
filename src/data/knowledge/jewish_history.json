@@ -1,0 +1,152 @@
+{
+  "topicGroup": "Jewish History",
+  "description": "Comprehensive chronological timeline spanning 4,000 years of Jewish historical experience, from patriarchal covenant through exile and modern Israeli renaissance.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "history-era-1-biblical",
+      "title": "Era 1: Biblical Foundations - Patriarchs, Exodus & First Temple (~1800 BCE - 586 BCE)",
+      "hebrewTitle": "תְּקוּפָה 1: יְסוֹדוֹת הַמִּקְרָא - אָבוֹת, יְצִיאַת מִצְרַיִם וּבַיִת רִאשׁוֹן",
+      "category": "COMMUNITY_TRADITION",
+      "citation": "Genesis 12:1; I Kings 6:1; II Kings 25",
+      "tags": ["biblical era", "patriarchs", "exodus", "sinai", "first temple", "solomon", "history"],
+      "overview": "Jewish history begins with Abraham rejecting idolatry to enter into an eternal ethical covenant with the One God (~1800 BCE). Following centuries of Egyptian slavery, Moses led the miraculous Exodus (~1313 BCE) to receive the Torah at Mount Sinai. Joshua led the settlement of Canaan, followed by the United Monarchy under Saul, David (who established Jerusalem as capital), and Solomon (who constructed the First Temple ~957 BCE). Following Solomon, the kingdom split into northern Israel (exiled by Assyria ~722 BCE, including the Tribe of Manasseh) and southern Judah (destroyed by Babylon in 586 BCE).",
+      "historicalBackground": "Archaeological discoveries across ancient Near Eastern royal annals confirm names, battles, and cities recorded throughout Kings and Chronicles.",
+      "torahSources": [
+        "Genesis 12:1-2: 'Now the Lord said unto Abram: Get thee out of thy country... unto the land that I will show thee; and I will make of thee a great nation.'"
+      ],
+      "classicalCommentary": "Nachmanides writes: 'Ma'aseh Avot Siman LeBanim'—The historical trials and triumphs of the biblical patriarchs serve as prophetic blueprints for all future generations.",
+      "bneiMenashePerspective": "For Bnei Menashe, ~722 BCE marks our historical separation from Jerusalem when Assyrian forces carried away our ancestor Manasseh eastward into exile across Asia.",
+      "practicalLessons": [
+        "Covenantal Purpose: Our existence is rooted in a divine mission to bring justice and moral light to human civilization."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How long did King Solomon's First Temple stand in Jerusalem?",
+          "answer": "Approximately 410 years before being burned by Nebuchadnezzar's Babylonian army on the 9th of Av, 586 BCE."
+        }
+      ],
+      "relatedTopics": ["Tisha B'Av Fast", "Tribe of Manasseh Origins"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why did the United Monarchy split into two separate kingdoms following Solomon's reign?"
+      ]
+    },
+    {
+      "id": "history-era-2-second-temple",
+      "title": "Era 2: Second Temple, Maccabean Revolt & Roman Exile (538 BCE - 70 CE)",
+      "hebrewTitle": "תְּקוּפָה 2: בַּיִת שֵׁנִי, מֶרֶד הַחַשְׁמוֹנָאִים וְחֻרְבָּן רוֹמִי",
+      "category": "COMMUNITY_TRADITION",
+      "citation": "Book of Ezra; I Maccabees; Josephus Jewish Wars",
+      "tags": ["second temple", "ezra", "maccabees", "hanukkah", "romans", "history", "exile"],
+      "overview": "In 538 BCE, Persian King Cyrus allowed exiles to return and rebuild the Second Temple under Ezra and Nehemiah. Centuries later, Syrian-Greek King Antiochus IV attempted to ban Judaism, sparking the victorious Hasmonean (Maccabean) revolt celebrated on Hanukkah (165 BCE). Eventually, Roman conquest led to internal division and the devastating burning of the Second Temple by Titus in 70 CE, followed by the Bar Kokhba defeat in 135 CE.",
+      "historicalBackground": "During this era, the Oral Torah began systematic organization under the Zugot (pairs of scholars like Hillel and Shammai) to preserve Judaism without a standing Temple.",
+      "torahSources": [
+        "Haggai 2:9: 'The glory of this latter house shall be greater than that of the former, says the Lord of hosts...'"
+      ],
+      "classicalCommentary": "Talmud Yoma (9b) diagnoses that while the First Temple fell due to idolatry, immorality, and bloodshed, the Second Temple fell due to Sinat Chinam (baseless internal hatred).",
+      "bneiMenashePerspective": "As the Second Temple collapsed under Roman flames, Bnei Menashe tribes were already journeying along Silk Road trade routes through China and Burma toward India.",
+      "practicalLessons": [
+        "Internal Solidarity: External empires can destroy physical walls only when internal communal unity crumbles first."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Who codified the Oral Torah into the written Mishnah following the Roman destruction?",
+          "answer": "Rabbi Judah HaNasi (Judah the Prince) compiled the six orders of the Mishnah in the Galilee around 200 CE to save Jewish jurisprudence from oblivion."
+        }
+      ],
+      "relatedTopics": ["Hanukkah Festival", "Tisha B'Av Mourning"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What architectural renovations did King Herod make to the Second Temple?"
+      ]
+    },
+    {
+      "id": "history-era-3-talmudic-golden",
+      "title": "Era 3: Talmudic Academies & Sefardi Golden Age in Spain (200 CE - 1492 CE)",
+      "hebrewTitle": "תְּקוּפָה 3: יְשִׁיבוֹת בָּבֶל וְתֹר הַזָּהָב בִּסְפָרַד",
+      "category": "COMMUNITY_TRADITION",
+      "citation": "Talmud Bavli; Rambam Mishneh Torah; Shulchan Aruch",
+      "tags": ["talmud", "babylon", "sefardi", "spain", "rambam", "shulchan aruch", "inquisition", "history"],
+      "overview": "Following Roman exile, Jewish intellectual leadership shifted to the great academies of Babylon (Sura and Pumbedita), producing the Babylonian Talmud (~500 CE). Later, under Islamic and early Christian Iberian rule, the Sefardi Golden Age flourished in Spain and North Africa, producing giants like Rambam (Maimonides), Yehuda HaLevi, Ibn Ezra, and Maran Yosef Karo. This era ended tragically with the Spanish Inquisition and expulsion in 1492.",
+      "historicalBackground": "Expelled Spanish Jews scattered across North Africa, the Ottoman Empire, Amsterdam, and the Land of Israel (Safed), creating rich Sefardi cultural centers.",
+      "torahSources": [
+        "Psalms 119:92: 'Unless Your Torah had been my delight, I should then have perished in my affliction.'"
+      ],
+      "classicalCommentary": "Rambam wrote the Mishneh Torah to make Halacha accessible to every Jew scattered across global dispersion without needing complex Talmudic debates.",
+      "bneiMenashePerspective": "When arriving in Israel centuries later, Bnei Menashe warmly embraced Maran Yosef Karo's Shulchan Aruch as their authoritative guide to Sefardi religious life.",
+      "practicalLessons": [
+        "Portable Sanctuary: Wherever Jews wandered across the globe, the study of Torah served as an indestructible portable homeland."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What happened in the mystical city of Safed (Tzfat) in the 16th century?",
+          "answer": "Following the Spanish expulsion, Safed became the global epicenter of Kabbalah and Halacha under the Arizal, Rabbi Yosef Karo, and Rabbi Shlomo Alkabetz (author of Lecha Dodi)."
+        }
+      ],
+      "relatedTopics": ["Sefardi Liturgical Rite", "Laws of Shulchan Aruch"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "Why is Rambam considered one of the greatest physicians and philosophers in world history?"
+      ]
+    },
+    {
+      "id": "history-era-4-modern-rebirth",
+      "title": "Era 4: Rise of Zionism, The Holocaust & Rebirth of Israel (1897 CE - 1948 CE)",
+      "hebrewTitle": "תְּקוּפָה 4: הַצִּיּוֹנוּת, הַשּׁוֹאָה וּתְקוּמַת מְדִינַת יִשְׂרָאֵל",
+      "category": "COMMUNITY_TRADITION",
+      "citation": "First Zionist Congress (1897); Israeli Declaration of Independence (1948)",
+      "tags": ["zionism", "herzl", "holocaust", "israel", "independence", "1948", "history", "rebirth"],
+      "overview": "In the late 19th century, facing rising anti-Semitism, Theodor Herzl convened the First Zionist Congress (1897), sparking a worldwide political return to Eretz Yisrael. During World War II, Nazi Germany perpetrated the Holocaust (Shoah), systematically murdering six million European Jews. From the ashes of unprecedented tragedy, the Jewish people proclaimed the independent State of Israel on the 5th of Iyar, 5708 (May 14, 1948).",
+      "historicalBackground": "Pioneering immigrants (Halutzim) drained swamps, revived spoken Hebrew, and defended isolated agricultural settlements against overwhelming odds.",
+      "torahSources": [
+        "Ezekiel 37:11-12: 'Son of man, these bones are the whole house of Israel... Behold, I will open your graves... and I will bring you into the land of Israel.'"
+      ],
+      "classicalCommentary": "Chief Rabbi Isaac Herzog proclaimed the establishment of Israel as 'Reshit Tzemichat Geulatenu'—the initial budding of our ultimate national and spiritual redemption.",
+      "bneiMenashePerspective": "News of Israel's miraculous rebirth in 1948 reached isolated tribal hills in Manipur via shortwave radio broadcasts, igniting fervent prayer circles for immediate Aliyah.",
+      "practicalLessons": [
+        "Miracle of Survival: Against all rules of conventional sociology, a dispersed ancient people rose from destruction to restore sovereignty in their ancestral homeland."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is Yom HaShoah?",
+          "answer": "Holocaust Remembrance Day, observed on the 27th of Nisan, memorializing six million martyrs with a two-minute nationwide siren siren stop across Israel."
+        }
+      ],
+      "relatedTopics": ["Chodesh Iyar Milestones", "Yom HaAtzmaut"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How did the revival of spoken Hebrew contribute to building the modern state?"
+      ]
+    },
+    {
+      "id": "history-era-5-ingathering",
+      "title": "Era 5: Ingathering of the Exiles & Return of the Lost Tribes (1948 CE - Present)",
+      "hebrewTitle": "תְּקוּפָה 5: קִבּוּץ גָּלֻיּוֹת וְשִׁיבַת הַשְּׁבָטִים הָאֲבוּדִים",
+      "category": "COMMUNITY_TRADITION",
+      "citation": "Isaiah 11:12; Law of Return (1950)",
+      "tags": ["ingathering", "exiles", "lost tribes", "aliyah", "etiopia", "bnei menashe", "history", "modern"],
+      "overview": "Following 1948, Israel launched the greatest demographic miracle in human history: Kibbutz Galuyot (Ingathering of the Exiles). Airlifts rescued entire ancient Jewish communities from Yemen (Operation Magic Carpet), Iraq, Morocco, Ethiopia (Operation Moses/Solomon), the former Soviet Union, and Northeast India (Bnei Menashe). Today, for the first time in 2,000 years, the majority of the world's Jewish children live in the Land of Israel.",
+      "historicalBackground": "Israel established the Law of Return guaranteeing every Jew and descendant of lost tribes safe harbor and full citizenship.",
+      "torahSources": [
+        "Isaiah 11:12: 'And He shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.'"
+      ],
+      "classicalCommentary": "Rabbi Joseph B. Soloveitchik taught in Kol Dodi Dofek that the gathering of Jews from over one hundred countries speaks with the clear knocking of divine providence.",
+      "bneiMenashePerspective": "Our return from Manipur and Mizoram to Nof HaGalil and Kiryat Arba is living, breathing proof that God's covenant with the Ten Lost Tribes remains active and eternal.",
+      "practicalLessons": [
+        "Living Prophecy: We are privileged to live in an era when ancient biblical prophecies of return are unfolding daily before our very eyes."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How many Jews reside in Israel today compared to 1948?",
+          "answer": "From just ~600,000 Jews in 1948, Israel's Jewish population has grown to over 7.2 million today."
+        }
+      ],
+      "relatedTopics": ["Aliyah Milestones", "Chief Rabbi Shlomo Amar's Ruling"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What challenges and opportunities emerge when Jews from over 100 cultures unite in one homeland?"
+      ]
+    }
+  ]
+}

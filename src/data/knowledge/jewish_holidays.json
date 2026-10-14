@@ -1,0 +1,405 @@
+{
+  "topicGroup": "Jewish Holidays",
+  "description": "Comprehensive production library of all major and minor Jewish festivals, biblical pilgrimage feasts, rabbinic celebrations, and modern national days.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "hol-rosh-hashanah",
+      "title": "Rosh Hashanah: The Day of Judgment & Coronation of the Divine King",
+      "hebrewTitle": "רֹאשׁ הַשָּׁנָה - יוֹם תְּרוּעָה וְיוֹם הַדִּין",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Leviticus 23:24; Numbers 29:1; Masechet Rosh Hashanah",
+      "tags": ["rosh hashanah", "new year", "shofar", "judgment", "teshuvah", "apples and honey", "tishrei", "holiday"],
+      "overview": "Rosh Hashanah occurs on the 1st and 2nd of Tishrei and marks the anniversary of the creation of Adam and Eve. It is celebrated as the Day of Judgment (Yom HaDin) when all living beings pass before God, and as Yom Teruah, the day of sounding the Shofar. Festive customs include eating symbolic foods (Simanim) such as apple dipped in honey, pomegranate seeds, and round challah.",
+      "historicalBackground": "In biblical tradition, Rosh Hashanah inaugurates the Ten Days of Repentance (Aseret Yemei Teshuvah) leading to Yom Kippur. Throughout Jewish history, it has served as the annual renewal of divine sovereignty over creation.",
+      "torahSources": [
+        "Leviticus 23:24: 'In the seventh month, in the first day of the month, shall be a solemn rest unto you, a memorial proclaimed with the blast of horns, a holy convocation.'",
+        "Numbers 29:1: 'And in the seventh month, on the first day... it is a day of blowing the horn (Yom Teruah) unto you.'"
+      ],
+      "classicalCommentary": "Rambam teaches that although sounding the Shofar is a divine decree without explicit explanation, its internal message proclaims: 'Awake from your slumber, sleepers, examine your deeds, return in repentance, and remember your Creator!'",
+      "bneiMenashePerspective": "In Bnei Menashe congregations across Manipur, Mizoram, and Israel, Rosh Hashanah is observed with grand Sefardi liturgical melodies. Synagogues in Churachandpur and Aizawl overflow with families dressed in white and traditional woven shawls, gathering for the 100 blasts of the Shofar and evening Simanim banquets.",
+      "practicalLessons": [
+        "Accountability and Introspection: Every year provides a clean slate if we honestly evaluate our personal ethics and relationships.",
+        "Sovereignty of Ethics: Acknowledging a higher moral authority guards humanity against arrogance."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is Rosh Hashanah observed for two days even in the Land of Israel?",
+          "answer": "Unlike other festivals observed for one day in Israel and two in the Diaspora, Rosh Hashanah is observed for two full days everywhere (Yoma Arichta - 'One Long Day') due to ancient calendar communication requirements regarding lunar witnesses."
+        },
+        {
+          "question": "What is Tashlich?",
+          "answer": "A traditional afternoon prayer recited beside a natural body of water containing fish, symbolizing casting away sins and emotional burdens into the depths."
+        }
+      ],
+      "relatedTopics": ["Yom Kippur", "Ten Days of Repentance", "Laws of the Shofar"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What do the three distinct shofar blasts (Tekiah, Shevarim, Teruah) represent?",
+        "What symbolic foods (Simanim) are eaten on Rosh Hashanah evening?"
+      ]
+    },
+    {
+      "id": "hol-yom-kippur",
+      "title": "Yom Kippur: The Day of Atonement & Supreme Spiritual Cleansing",
+      "hebrewTitle": "יוֹם הַכִּפּוּרִים - שַׁבַּת שַׁבָּתוֹן",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Leviticus 16:1-34; Leviticus 23:26-32; Shulchan Aruch O.C. 604-624",
+      "tags": ["yom kippur", "atonement", "fasting", "kol nidre", "neilah", "white", "forgiveness"],
+      "overview": "Yom Kippur, observed on the 10th of Tishrei, is the holiest day of the Jewish year. It is a 25-hour period of complete fasting, intense prayer, and spiritual purification where individuals reconcile with God and fellow humans. Observance includes five physical abstentions: food/drink, leather footwear, bathing, anointing with oils, and marital relations.",
+      "historicalBackground": "Following the sin of the Golden Calf, Moses spent forty days on Mount Sinai pleading for divine mercy. On the 10th of Tishrei, God granted complete forgiveness and gave Moses the second set of stone tablets.",
+      "torahSources": [
+        "Leviticus 16:30: 'For on this day shall atonement be made for you, to cleanse you; from all your sins shall you be clean before the Lord.'",
+        "Leviticus 23:32: 'It shall be unto you a sabbath of solemn rest (Shabbat Shabbaton), and you shall afflict your souls.'"
+      ],
+      "classicalCommentary": "Mishnah Yoma (8:9) establishes the fundamental ethical rule: Yom Kippur atones for sins between a person and God, but for sins committed against a fellow human being, Yom Kippur does not atone until one appeases their neighbor directly.",
+      "bneiMenashePerspective": "During Yom Kippur, Bnei Menashe community members spend the entire day and evening inside Beith Shalom and Shalom Synagogues wrapped in white Tallitot and attire. The concluding Neilah prayer culminates in a triumphant Shofar blast and communal singing of 'L'Shana HaBaa B'Yerushalayim' (Next Year in Jerusalem).",
+      "practicalLessons": [
+        "Interpersonal Peacemaking: True reconciliation demands humility to apologize directly to those we have harmed.",
+        "Angelic Purity: Detaching from physical indulgence for 25 hours reminds us that our primary identity is spiritual."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the Kol Nidre prayer?",
+          "answer": "An ancient legal formula chanted at sunset inaugurating Yom Kippur, annulling personal unfulfilled vows made to God under emotional duress."
+        }
+      ],
+      "relatedTopics": ["Rosh Hashanah", "Neilah Concluding Service", "Laws of Fasting"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why do congregants read the Book of Jonah during the afternoon Mincha service?",
+        "What are the rules regarding medical emergencies or pregnancy on Yom Kippur?"
+      ]
+    },
+    {
+      "id": "hol-sukkot",
+      "title": "Sukkot: Feast of Tabernacles & Season of Our Rejoicing",
+      "hebrewTitle": "חַג הַסֻּכּוֹת - זְמַן שִׂמְחָתֵנוּ",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Leviticus 23:33-43; Deuteronomy 16:13-15; Masechet Sukkah",
+      "tags": ["sukkot", "sukkah", "lulav", "etrog", "four species", "joy", "tabernacles", "harvest"],
+      "overview": "Sukkot is a seven-day pilgrimage festival beginning on the 15th of Tishrei. Families reside in temporary outdoor huts (Sukkos) covered with vegetal roof material (Sechach) and hold the Four Species (Lulav palm frond, Etrog citron, three Hadassim myrtles, and two Aravot willows) in daily Hallel and Hoshanot circuits.",
+      "historicalBackground": "Commemorating the forty years our ancestors wandered in the Sinai desert protected by God's Clouds of Glory (Ananei HaKavod) after the Exodus.",
+      "torahSources": [
+        "Leviticus 23:42: 'You shall dwell in booths seven days; all that are home-born in Israel shall dwell in booths.'",
+        "Deuteronomy 16:14: 'And you shall rejoice in your feast, you, and your son, and your daughter, and your manservant...'"
+      ],
+      "classicalCommentary": "Midrash Vayikra Rabbah notes that the Four Species represent four distinct types of people within the Jewish community—some possessing Torah learning without good deeds, some possessing good deeds without learning, some possessing both, and some neither. Binding them together teaches that community survival depends on mutual support.",
+      "bneiMenashePerspective": "In Northeast India, where bamboo architecture is a celebrated heritage art, building intricate, sturdy Sukkos out of local bamboo stalks and palm leaves is a beloved communal project bringing elders and youth together.",
+      "practicalLessons": [
+        "Faith over Materialism: Leaving concrete homes for fragile booths teaches that true security comes from divine providence rather than brick walls.",
+        "Inclusive Joy: True celebration requires inviting guests (Ushpizin) and caring for the vulnerable."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What makes Sechach (roof covering) kosher?",
+          "answer": "It must be grown from the earth, detached from the ground, unprocessed into utensils, and placed to provide more shade than sunlight."
+        }
+      ],
+      "relatedTopics": ["Shemini Atzeret", "Simchat Torah", "Four Species Inspection"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What is Hoshanah Rabbah on the seventh day of Sukkot?",
+        "How do families welcome the mystical Ushpizin guests into the Sukkah?"
+      ]
+    },
+    {
+      "id": "hol-shemini-atzeret-simchat-torah",
+      "title": "Shemini Atzeret & Simchat Torah: Culmination of Joy & Torah Cycle",
+      "hebrewTitle": "שְׁמִינִי עֲצֶרֶת וְשִׂמְחַת תּוֹרָה",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Numbers 29:35; Shulchan Aruch O.C. 668-669",
+      "tags": ["shemini atzeret", "simchat torah", "hakafot", "torah cycle", "rain blessing", "joy"],
+      "overview": "Shemini Atzeret is an independent biblical festival immediately following Sukkot (8th of Tishrei). In Israel, it coincides with Simchat Torah; in Diaspora communities, Simchat Torah is celebrated on the ninth day. Simchat Torah marks the completion of the annual reading of the Five Books of Moses and the immediate commencement of Genesis (Bereshit) amidst joyous dancing with Torah scrolls (Hakafot).",
+      "historicalBackground": "The Talmud explains Shemini Atzeret with a parable of a king who hosted a seven-day banquet for all nations, then asked his closest children to remain one additional intimate day with him.",
+      "torahSources": [
+        "Numbers 29:35: 'On the eighth day you shall have a solemn assembly (Atzeret); you shall do no manner of servile work.'"
+      ],
+      "classicalCommentary": "Rashi notes that 'Atzeret' implies holding back—God expresses love for Israel by desiring one extra day of uninhibited communion before winter sets in.",
+      "bneiMenashePerspective": "Simchat Torah in Bnei Menashe centers is an unforgettable display of exuberant tribal joy. In Churachandpur, Aizawl, and Nof HaGalil, Torah scrolls are carried in energetic Hakafot accompanied by Hebrew and Mizo songs of redemption.",
+      "practicalLessons": [
+        "Endless Learning: We immediately begin reading Genesis upon finishing Deuteronomy to demonstrate that Torah study has no finish line."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "When do we begin reciting the prayer for rain (Tefilat Geshem)?",
+          "answer": "During the Musaf service on Shemini Atzeret, marking the onset of the Mediterranean agricultural winter season."
+        }
+      ],
+      "relatedTopics": ["Sukkot Festival", "Parashat Bereshit", "Parashat VZot HaBerachah"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Who is called up as Chatan Torah and Chatan Bereshit during Simchat Torah?"
+      ]
+    },
+    {
+      "id": "hol-hanukkah",
+      "title": "Hanukkah: Festival of Lights & Miraculous Dedication",
+      "hebrewTitle": "חֲנֻכָּה - חַג הָאוֹרִים",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Shabbat 21b; First and Second Maccabees; Shulchan Aruch O.C. 670-684",
+      "tags": ["hanukkah", "chanukah", "menorah", "hanukkiah", "maccabees", "oil", "miracle", "kislev"],
+      "overview": "Hanukkah is an eight-day rabbinic festival starting on the 25th of Kislev. It celebrates the victory of the Maccabees over the Seleucid Greek Empire (165 BCE), the rededication of the Holy Temple in Jerusalem, and the miracle of a one-day supply of pure olive oil burning brightly in the Menorah for eight consecutive days.",
+      "historicalBackground": "Under Antiochus IV Epiphanes, Greek authorities outlawed Sabbath observance, circumcision, and Torah study. Mattathias the Hasmonean and his son Judah Maccabee led a guerrilla uprising that reclaimed religious freedom.",
+      "torahSources": [
+        "Zechariah 4:6: 'Not by might, nor by power, but by My spirit, says the Lord of hosts.'",
+        "Shabbat 21b: 'What is Hanukkah? ... When the Greeks entered the Sanctuary they defiled all the oils... they found only one cruse with the seal of the High Priest sufficient for one day; a miracle occurred and they lit from it eight days.'"
+      ],
+      "classicalCommentary": "Maharal explains that eight represents transcending the physical natural order (seven days of creation), demonstrating that spiritual illumination survives physical oppression.",
+      "bneiMenashePerspective": "Lighting olive oil lamps in synagogue windows across Manipur and Mizoram reminds Bnei Menashe families of their own miraculous survival. Against all historical odds, our small tribal remnant preserved its faith through darkness.",
+      "practicalLessons": [
+        "Spiritual Courage: A small light of moral truth dispels vast darkness of cynicism and oppression.",
+        "Increasing Goodness: Halacha dictates lighting one candle the first night and adding one each night (Beit Hillel rule: 'We ascend in holiness and do not descend')."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Where should the Hanukkiah (Menorah) be placed?",
+          "answer": "Ideally by a doorway opposite the Mezuzah or in a window facing the public street to publicize the miracle (Pirsumei Nisa)."
+        }
+      ],
+      "relatedTopics": ["Laws of Hanukkah Lighting", "Hallel and Al HaNissim", "Kislev Calendar"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why do we eat fried foods like Sufganiyot (doughnuts) and Latkes on Hanukkah?",
+        "What is the role of the Shamash auxiliary candle?"
+      ]
+    },
+    {
+      "id": "hol-tu-bishvat",
+      "title": "Tu BiShvat: New Year for Trees & Environmental Stewardship",
+      "hebrewTitle": "ט\"וּ בִּשְׁבָט - רֹאשׁ הַשָּׁנָה לָאִילָנוֹת",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Mishnah Rosh Hashanah 1:1; Pri Etz Hadar",
+      "tags": ["tu bishvat", "trees", "nature", "environment", "shevat", "seder", "fruits", "seven species"],
+      "overview": "Observed on the 15th of Shevat, Tu BiShvat is the Halachic New Year for trees, calculating agricultural tithing years in Eretz Yisrael. In kabbalistic and modern tradition, it is celebrated by eating diverse fruits—especially the Seven Species of the Holy Land (wheat, barley, grapes, figs, pomegranates, olives, and dates)—and conducting a Tu BiShvat fruit Seder.",
+      "historicalBackground": "Although originating as an agricultural tax threshold in Mishnah times, 16th-century Safed Kabbalists developed the Tu BiShvat Seder to celebrate divine sparks embedded within the natural world.",
+      "torahSources": [
+        "Deuteronomy 20:19: 'For is the tree of the field a man, that it should be besieged by you?'",
+        "Deuteronomy 8:8: 'A land of wheat and barley, and vines and fig trees and pomegranates; a land of olive oil and honey.'"
+      ],
+      "classicalCommentary": "Midrash Kohelet Rabbah (7:13) relates that when God created Adam, He led him around the trees of Eden saying: 'See how lovely My works are! Take care not to corrupt or destroy My world, for if you spoil it, there is no one to repair it after you.'",
+      "bneiMenashePerspective": "With deep agricultural roots in fertile hills, Bnei Menashe communities celebrate Tu BiShvat with community tree-planting drives in Israel and fruit banquets featuring tropical delicacies alongside traditional Israeli olives and dates.",
+      "practicalLessons": [
+        "Ecological Responsibility: Judaism mandates active preservation of nature and prohibition against wanton waste (Bal Tashchit)."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the order of drinking wine during a Tu BiShvat Seder?",
+          "answer": "Four cups transitioning from pure white wine (winter slumber) to red mixed into white, then white mixed into red, culminating in pure deep red wine representing full springtime bloom."
+        }
+      ],
+      "relatedTopics": ["Seven Species of Israel", "Laws of Orlah and Tithing", "Month of Shevat"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What blessing is recited before eating tree fruits versus ground vegetables?"
+      ]
+    },
+    {
+      "id": "hol-purim",
+      "title": "Purim: Salvation from Hidden Peril & Joyous Fellowship",
+      "hebrewTitle": "פּוּרִים - מִשְׁתֶּה וְשִׂמְחָה",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Megillat Esther; Shulchan Aruch O.C. 685-697",
+      "tags": ["purim", "esther", "mordechai", "megillah", "mishloach manot", "matanot laevyonim", "joy", "adar"],
+      "overview": "Purim occurs on the 14th of Adar (or 15th in walled cities like Jerusalem - Shushan Purim). It celebrates the miraculous deliverance of the Persian Jewish community from Haman's genocidal plot. Observance centers on four mandatory Mitzvot: hearing Megillat Esther read night and day, giving food gifts to friends (Mishloach Manot), charity to at least two impoverished individuals (Matanot LaEvyonim), and participating in a festive banquet (Seudat Purim).",
+      "historicalBackground": "Set in the ancient Persian Empire under King Ahashverosh (4th century BCE), Queen Esther concealed her Jewish identity until risking her life to expose Haman's decree.",
+      "torahSources": [
+        "Esther 9:22: 'As the days wherein the Jews had rest from their enemies... that they should make them days of feasting and gladness, and of sending portions one to another, and gifts to the poor.'"
+      ],
+      "classicalCommentary": "Chassidic masters note that God's explicit name never appears in the Book of Esther, teaching that divine providence works quietly behind hidden natural coincidences in our personal lives.",
+      "bneiMenashePerspective": "Purim in Churachandpur and Nof HaGalil unites the community in costumed masquerades, hilarious theatrical skits (Purim Spiels), and distribution of generous Mishloach Manot packages across neighborhood homes.",
+      "practicalLessons": [
+        "Social Solidarity: Joy is validated only when we actively feed the hungry and strengthen bonds of friendship.",
+        "Courage in Leadership: Like Queen Esther, we must speak up for vulnerable communities even at personal risk."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do people wear costumes on Purim?",
+          "answer": "To symbolize that just as God concealed His saving hand behind natural events in Persia, things are not always what they appear on the surface."
+        }
+      ],
+      "relatedTopics": ["Ta'anit Esther", "Shushan Purim", "Month of Adar"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What are the four mandatory Mitzvot required on Purim day?"
+      ]
+    },
+    {
+      "id": "hol-pesach",
+      "title": "Pesach (Passover): Festival of Freedom & Exodus Seder",
+      "hebrewTitle": "חַג הַפֶּסַח - זְמַן חֵרוּתֵנוּ",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Exodus 12:1-51; Shulchan Aruch O.C. 429-494",
+      "tags": ["pesach", "passover", "matzah", "seder", "exodus", "freedom", "chametz", "nisan"],
+      "overview": "Pesach is the seven-day biblical spring festival (eight outside Israel) beginning on the 15th of Nisan. It celebrates liberation from Egyptian bondage under Moses. Families eliminate all leavened grain products (Chametz), eat unleavened bread (Matzah), and host the Seder banquet recounting the Exodus narrative using the Haggadah.",
+      "historicalBackground": "After 210 years of Egyptian slavery, God brought ten plagues upon Pharaoh, culminating in the Passover of the firstborn and the birth of Israel as a sovereign nation.",
+      "torahSources": [
+        "Exodus 12:14: 'And this day shall be unto you for a memorial, and you shall keep it a feast to the Lord throughout your generations.'",
+        "Deuteronomy 16:3: 'Seven days shall you eat unleavened bread... the bread of affliction; for in haste did you come forth out of the land of Egypt.'"
+      ],
+      "classicalCommentary": "Rambam codifies that every individual in every generation must view themselves as personally redeemed from Egyptian bondage.",
+      "bneiMenashePerspective": "Ancient Bnei Menashe traditions in Northeast India preserved spring unleavened cake harvest rituals mirroring biblical Passover. Today's Seder tables resonate deeply with ancestral memories of crossing rushing waters toward freedom.",
+      "practicalLessons": [
+        "True Freedom: Liberty requires ethical responsibility and dedication to community upliftment.",
+        "Humility: Removing leavened bread symbolizes eradicating arrogance and spiritual inflation."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What are the four cups of wine at the Seder?",
+          "answer": "They correspond to the four divine expressions of redemption in Exodus 6:6-7: 'I will bring out,' 'I will deliver,' 'I will redeem,' and 'I will take.'"
+        }
+      ],
+      "relatedTopics": ["Counting the Omer", "Laws of Chametz Removal", "Pesach Sheni"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How do Sefardi and Bnei Menashe customs treat Kitniyot (rice/legumes) during Passover?"
+      ]
+    },
+    {
+      "id": "hol-pesach-sheni",
+      "title": "Pesach Sheni: Second Passover & The Power of Second Chances",
+      "hebrewTitle": "פֶּסַח שֵׁנִי - הַזְּדַמְּנוּת שְׁנִיָּה",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Numbers 9:1-14; Pesachim 93a",
+      "tags": ["pesach sheni", "second chance", "matzah", "iyyar", "holiday", "mercy"],
+      "overview": "Observed on the 14th of Iyar, Pesach Sheni ('Second Passover') was instituted in the wilderness for individuals who were ritually impure or far away during the standard Nisan Passover offering. Today, it is marked by omitting Tachanun penitential prayers and eating Matzah during the day.",
+      "historicalBackground": "When Israelites who had been carrying Joseph's bones approached Moses crying: 'Why should we be omitted?' God responded by creating a dedicated second opportunity one month later.",
+      "torahSources": [
+        "Numbers 9:10-11: 'If any man of you... shall be unclean by reason of a dead body, or be in a journey afar off... in the second month on the fourteenth day at dusk they shall keep it.'"
+      ],
+      "classicalCommentary": "Rabbi Yosef Yitzchak of Lubavitch famously declared: 'Pesach Sheni teaches that nothing is ever hopeless or lost; it is always possible to correct the past and make a fresh start.'",
+      "bneiMenashePerspective": "For a community separated from mainstream Jewry for nearly nearly three millennia, Pesach Sheni symbolizes our own journey—proving that no matter how far away in distance or time a tribe wandered, God always keeps the door open for return.",
+      "practicalLessons": [
+        "Never Despair: No mistake is irreversible when met with sincere desire to reconnect."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Is Chametz forbidden on Pesach Sheni?",
+          "answer": "No, both Chametz and Matzah may be consumed freely on the table simultaneously on Pesach Sheni."
+        }
+      ],
+      "relatedTopics": ["Month of Iyar", "Passover Laws", "Teshuvah"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "Why did the individuals carrying Joseph's coffin ask Moses for a second opportunity?"
+      ]
+    },
+    {
+      "id": "hol-lag-baomer",
+      "title": "Lag BaOmer: Celebration of Mystical Light & Rabbi Shimon bar Yochai",
+      "hebrewTitle": "לַ\"ג בָּעֹמֶר - הִלּוּלָא דְּרַשְׁבִּ\"י",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Shulchan Aruch O.C. 493:2; Zohar",
+      "tags": ["lag baomer", "omer", "bonfire", "rashbi", "meron", "iyyar", "kabbalah", "joy"],
+      "overview": "Observed on the 33rd day of the Omer count (18th of Iyar), Lag BaOmer interrupts the solemn spring mourning period. It celebrates the cessation of a plague among the 24,000 disciples of Rabbi Akiva and marks the Hillula (memorial celebration) of Rabbi Shimon bar Yochai (Rashbi), author of the Zohar.",
+      "historicalBackground": "During the Roman persecution following the Bar Kokhba revolt, Rashbi hid in a cave in Peki'in for 13 years studying Torah mysteries before revealing the hidden light of Kabbalah.",
+      "torahSources": [
+        "Proverbs 6:23: 'For the commandment is a lamp, and Torah is light.'"
+      ],
+      "classicalCommentary": "The Zohar describes Rashbi's passing not as a sad death, but as a wedding celebration (Hillula) where divine light illuminated the world.",
+      "bneiMenashePerspective": "Synagogues in Manipur and Israel light festive outdoor bonfires accompanied by traditional singing, archery games for youth, and joyful outdoor picnics.",
+      "practicalLessons": [
+        "Respecting Scholars: Rabbi Akiva's students perished due to lack of mutual respect; true Torah requires treating peers with honor."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do children play with bows and arrows on Lag BaOmer?",
+          "answer": "Tradition teaches that during Rashbi's lifetime, no rainbow (a covenantal warning symbol) ever appeared in the sky because his personal merit protected the generation."
+        }
+      ],
+      "relatedTopics": ["Counting the Omer", "Kabbalah and Zohar", "Month of Iyar"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What mourning restrictions end on Lag BaOmer according to Sefardi custom?"
+      ]
+    },
+    {
+      "id": "hol-shavuot",
+      "title": "Shavuot: Festival of Weeks & Receiving the Torah at Sinai",
+      "hebrewTitle": "חַג הַשָּׁבוּעוֹת - זְמַן מַתַּן תּוֹרָתֵנוּ",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Exodus 19-20; Leviticus 23:15-21; Book of Ruth",
+      "tags": ["shavuot", "torah", "sinai", "ten commandments", "tikkun leil", "dairy", "ruth", "sivan"],
+      "overview": "Observed on the 6th of Sivan (and 7th in Diaspora), Shavuot culminates the 49-day Omer count. It celebrates the revelation of the Ten Commandments at Mount Sinai and the wheat harvest offering (Bikkurim). Customs include staying awake all night studying Torah (Tikkun Leil Shavuot), reading the Book of Ruth, decorating synagogues with greenery, and eating dairy meals.",
+      "historicalBackground": "On the 6th of Sivan in the year 2448 from creation, the entire nation of Israel stood at Mount Sinai hearing God proclaim the moral foundation of human civilization.",
+      "torahSources": [
+        "Exodus 19:17: 'And Moses brought forth the people out of the camp to meet God; and they stood at the lowermost part of the mount.'",
+        "Exodus 24:7: 'And they said: All that the Lord has spoken will we do, and obey (Na'aseh V'Nishma).'"
+      ],
+      "classicalCommentary": "Midrash teaches that God offered the Torah to other nations who refused its ethical limits; Israel accepted it unconditionally with love.",
+      "bneiMenashePerspective": "The Book of Ruth—the story of a sincere convert from Moab joining Israel—holds profound personal resonance for Bnei Menashe immigrants reaffirming their covenant at Sinai.",
+      "practicalLessons": [
+        "Active Commitment: We must renew our personal commitment to ethical study every single day as if receiving Sinai anew."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is dairy food eaten on Shavuot?",
+          "answer": "When Israel received kosher slaughter laws at Sinai on Shabbat, their cooking utensils required purification, so they partook of ready dairy foods with humility and joy."
+        }
+      ],
+      "relatedTopics": ["Ten Commandments", "Book of Ruth", "Tikkun Leil Shavuot"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What is recited during the all-night Tikkun Leil Shavuot study program?"
+      ]
+    },
+    {
+      "id": "hol-tu-bav",
+      "title": "Tu B'Av: Festival of Love, Reconciliation & Joyous Union",
+      "hebrewTitle": "ט\"וּ בְּאָב - חַג הָאַהֲבָה וְהַפִּיּוּס",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Mishnah Ta'anit 4:8; Baba Batra 121a",
+      "tags": ["tu bav", "love", "marriage", "joy", "av", "reconciliation", "white dresses"],
+      "overview": "Observed on the 15th of Av, Tu B'Av marks the joyful turning point following the mourning of Tisha B'Av. In ancient Jerusalem, unmarried women dressed in borrowed white garments (so no one would be embarrassed by poverty) and danced in vineyards to find righteous marriage partners.",
+      "historicalBackground": "The Talmud lists six historical reasons for joy on this day, including the lifting of inter-tribal marriage bans after the wilderness wanderings and permission to bury fallen heroes of Beitar.",
+      "torahSources": [
+        "Mishnah Ta'anit 4:8: 'Rabban Shimon ben Gamliel said: There were no greater holidays for Israel than the 15th of Av and Yom Kippur...'"
+      ],
+      "classicalCommentary": "Chassidic commentary explains that just as the full moon of Av shines brightest immediately after the darkest night of Tisha B'Av, human love shines strongest after overcoming periods of sorrow.",
+      "bneiMenashePerspective": "Tu B'Av is celebrated across Bnei Menashe congregations with community weddings, musical events, and matchmaking gatherings supporting young couples building faithful homes in Israel.",
+      "practicalLessons": [
+        "Equality and Modesty: Borrowing white dresses ensured that inner character, empathy, and kindness shone above material wealth."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Is fasting permitted on Tu B'Av?",
+          "answer": "No, Tachanun supplications are omitted and fasting is forbidden due to the day's festive spirit."
+        }
+      ],
+      "relatedTopics": ["Tisha B'Av", "Jewish Marriage Laws", "Month of Av"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why did women borrow dresses from each other in ancient Jerusalem vineyards?"
+      ]
+    },
+    {
+      "id": "hol-yom-haatzmaut-yerushalayim",
+      "title": "Yom HaAtzmaut & Yom Yerushalayim: Modern Thanksgiving & Rebirth",
+      "hebrewTitle": "יוֹם הָעַצְמָאוּת וְיוֹם יְרוּשָׁלַיִם",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Chief Rabbinate of Israel Rulings; Psalms 126",
+      "tags": ["yom haatzmaut", "yom yerushalayim", "israel", "independence", "jerusalem", "aliyah", "thanksgiving"],
+      "overview": "Yom HaAtzmaut (5th of Iyar) celebrates Israel's modern independence in 1948, marking the dawn of redemption (Atchalta De'Geulah). Yom Yerushalayim (28th of Iyar) commemorates the reunification of the old city and Western Wall in 1967. Synagogues recite festive Hallel praises thanking God for gathering exiles.",
+      "historicalBackground": "After 2,000 years of stateless exile and Holocaust tragedy, the Jewish people reclaimed sovereignty in their ancestral homeland.",
+      "torahSources": [
+        "Psalms 126:1: 'When the Lord brought back those that returned to Zion, we were like unto them that dream.'"
+      ],
+      "classicalCommentary": "Rabbi Joseph B. Soloveitchik described Israel's rebirth as God knocking on the door of history, calling His children to return home.",
+      "bneiMenashePerspective": "For Bnei Menashe, these days are emotional tribal triumphs. Flag-raising ceremonies in Nof HaGalil and Kiryat Arba express profound gratitude for Aliyah flights uniting our Indian born elders with their grandchildren serving in the IDF.",
+      "practicalLessons": [
+        "Gratitude for History: Recognize modern historical miracles rather than taking sovereignty and security for granted."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Do congregations recite Hallel on Israeli Independence Day?",
+          "answer": "Yes, following the ruling of the Israeli Chief Rabbinate, festive Hallel is chanted during morning prayers in thanksgiving for national salvation."
+        }
+      ],
+      "relatedTopics": ["History of Aliyah", "Month of Iyar", "Jerusalem in Jewish Law"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How do Bnei Menashe communities celebrate Yom HaAtzmaut in northern Israel?"
+      ]
+    }
+  ]
+}

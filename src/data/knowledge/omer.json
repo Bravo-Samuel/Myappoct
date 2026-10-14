@@ -1,0 +1,213 @@
+{
+  "topicGroup": "Omer",
+  "description": "Comprehensive production guide to Sefirat HaOmer, detailing the 7-week kabbalistic character refinement journey from Passover liberation to Shavuot revelation at Sinai.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "omer-week-1-chesed",
+      "title": "Omer Week 1: Chesed (Loving-kindness & Unconditional Benevolence)",
+      "hebrewTitle": "שָׁבוּעַ רִאשׁוֹן בָּעֹמֶר - סְפִירַת חֶסֶד",
+      "category": "CALENDAR_FACT",
+      "citation": "Leviticus 23:15; Zohar III 97a; Tomer Devorah",
+      "tags": ["omer", "chesed", "kindness", "week 1", "sefirot", "character", "love"],
+      "overview": "The first week of Sefirat HaOmer (Days 1 to 7) focuses on refining Chesed—the divine attribute of expansive loving-kindness, benevolence, and unconditional giving. Each day explores Chesed paired with another Sefirah (e.g., Chesed of Chesed, Gevurah of Chesed, Tiferet of Chesed), teaching us to evaluate whether our generosity is healthy, well-timed, empathetic, and unselfish.",
+      "historicalBackground": "Just as God brought Israel out of Egypt purely through unearned loving-kindness (Chesed), our journey toward Sinai begins by opening our hearts toward fellow human beings.",
+      "torahSources": [
+        "Psalms 89:3: 'For I have said: The world is built by loving-kindness (Olam chesed yibaneh).'",
+        "Leviticus 23:15: 'And you shall count unto you from the morrow after the day of rest... seven weeks shall there be complete.'"
+      ],
+      "classicalCommentary": "Rabbi Moshe Cordovero writes in Tomer Devorah that true Chesed mirrors God's love: giving selflessly without expecting recognition or return favors.",
+      "bneiMenashePerspective": "Hospitality (Hachnasat Orchim) is the hallmark of Bnei Menashe culture. During Week 1 of the Omer, families make extra effort to invite elderly neighbors and new Aliyah immigrants to dinner tables.",
+      "practicalLessons": [
+        "Healthy Generosity: Ask yourself whether your giving empowers others or creates unhealthy dependence.",
+        "Daily Practice: Perform one anonymous act of kindness every single day of this week."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What does 'Gevurah of Chesed' (Day 2) mean in daily practice?",
+          "answer": "It means bringing discipline and healthy boundaries into our kindness—ensuring we do not overwhelm others or give inappropriately where tough love is required."
+        }
+      ],
+      "relatedTopics": ["Sefirat HaOmer Blessing", "Laws of Hospitality", "Week 2 Gevurah"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How do the seven lower Sefirot combine during the 49 days of the Omer?"
+      ]
+    },
+    {
+      "id": "omer-week-2-gevurah",
+      "title": "Omer Week 2: Gevurah (Discipline, Boundaries & Inner Strength)",
+      "hebrewTitle": "שָׁבוּעַ שֵׁנִי בָּעֹמֶר - סְפִירַת גְּבוּרָה",
+      "category": "CALENDAR_FACT",
+      "citation": "Pirkei Avot 4:1; Zohar I 119b",
+      "tags": ["omer", "gevurah", "discipline", "week 2", "strength", "boundaries", "justice"],
+      "overview": "The second week of Sefirat HaOmer (Days 8 to 14) refines Gevurah—discipline, restraint, justice, and personal accountability. While Chesed gives without limits, Gevurah constructs necessary boundaries to channel energy productively and protect against moral compromise.",
+      "historicalBackground": "In the wilderness, unguided enthusiasm led to chaos. God gave laws and boundaries so freedom would not devolve into anarchy.",
+      "torahSources": [
+        "Pirkei Avot 4:1: 'Ben Zoma said: Who is strong (Gibbor)? One who conquers his own negative impulse (Yezer HaRa).'",
+        "Proverbs 16:32: 'He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city.'"
+      ],
+      "classicalCommentary": "The Maharal teaches that Gevurah is not physical aggression or harsh judgment, but the internal spiritual fortitude required to say 'no' to negative habits.",
+      "bneiMenashePerspective": "Preserving Jewish identity across centuries in Northeast India required immense Gevurah—maintaining dietary laws and Sabbath rest despite isolation.",
+      "practicalLessons": [
+        "Constructive Discipline: Use boundaries not to shut others out, but to build structure where healthy relationships can flourish."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why does Gevurah follow Chesed?",
+          "answer": "Because unconstrained kindness can lead to burnout or indulgence; discipline balances generosity."
+        }
+      ],
+      "relatedTopics": ["Self-Control in Halacha", "Week 3 Tiferet"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does 'Chesed of Gevurah' (Day 8) teach about correcting others with love?"
+      ]
+    },
+    {
+      "id": "omer-week-3-tiferet",
+      "title": "Omer Week 3: Tiferet (Harmony, Compassion & Moral Balance)",
+      "hebrewTitle": "שָׁבוּעַ שְׁלִישִׁי בָּעֹמֶר - סְפִירַת תִּפְאֶרֶת",
+      "category": "CALENDAR_FACT",
+      "citation": "Exodus 34:6; Zohar III 145a",
+      "tags": ["omer", "tiferet", "harmony", "compassion", "week 3", "truth", "balance"],
+      "overview": "The third week of Sefirat HaOmer (Days 15 to 21) focuses on Tiferet—harmony, truth, and genuine compassion (Rachamim). Tiferet serves as the synthesis blending expansive Chesed (kindness) and restrictive Gevurah (discipline) into a beautiful, empathetic balance.",
+      "historicalBackground": "Associated with the Patriarch Jacob (Yaakov), whose life represented truth and synthesis between Abraham's kindness and Isaac's awe.",
+      "torahSources": [
+        "Micah 7:20: 'You will show truth to Jacob, loving-kindness to Abraham, as You have sworn unto our fathers from the days of old.'"
+      ],
+      "classicalCommentary": "Vilna Gaon notes that Tiferet is called 'Beauty' because true aesthetic and spiritual beauty emerges when conflicting elements find harmonious integration.",
+      "bneiMenashePerspective": "In community dispute resolution in Churachandpur, elders seek Tiferet—ensuring justice (Gevurah) is always tempered with compassion and communal reconciliation.",
+      "practicalLessons": [
+        "Empathetic Truth: Never use truth as a weapon to hurt others; deliver truth with compassion."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the difference between pity and compassion (Tiferet)?",
+          "answer": "Pity looks down on someone in distress from above, whereas compassion (Tiferet) steps directly into their shoes to share their burden with dignity."
+        }
+      ],
+      "relatedTopics": ["Attribute of Mercy", "Week 4 Netzach"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "How does Jacob represent the attribute of Tiferet in biblical narrative?"
+      ]
+    },
+    {
+      "id": "omer-week-4-netzach",
+      "title": "Omer Week 4: Netzach (Endurance, Ambition & Unwavering Persistence)",
+      "hebrewTitle": "שָׁבוּעַ רְבִיעִי בָּעֹמֶר - סְפִירַת נֵצַח",
+      "category": "CALENDAR_FACT",
+      "citation": "I Samuel 15:29; Zohar I 216a",
+      "tags": ["omer", "netzach", "endurance", "persistence", "week 4", "victory", "ambition"],
+      "overview": "The fourth week of Sefirat HaOmer (Days 22 to 28) develops Netzach—endurance, resilience, ambition, and long-term stamina. While good intentions are common, Netzach provides the persistence needed to push through exhaustion, setbacks, and doubt to achieve lasting spiritual victories.",
+      "historicalBackground": "Associated with Moses, who endured forty years of wilderness leadership without abandoning his mission despite repeated rebellions.",
+      "torahSources": [
+        "I Samuel 15:29: 'And also the Eternal (Netzach) of Israel will not lie nor repent; for He is not a man, that He should repent.'"
+      ],
+      "classicalCommentary": "Chassidic masters teach that Netzach comes from the root meaning both 'victory' and 'eternity.' True victory is achieved not in a single dramatic battle, but by enduring faithfully over a lifetime.",
+      "bneiMenashePerspective": "Netzach is our community's defining attribute. Surviving 2,700 years of exile without forgetting our identity is one of the greatest examples of Netzach Yisrael in human history.",
+      "practicalLessons": [
+        "Overcoming Discouragement: When facing obstacles in learning or life, remember that persistence over time conquers talent."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How do we prevent ambition (Netzach) from becoming ruthless aggressiveness?",
+          "answer": "By pairing it with Week 5's Hod (Humility), ensuring our drive is dedicated to serving God and community rather than personal ego."
+        }
+      ],
+      "relatedTopics": ["Leadership of Moses", "Week 5 Hod"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What does the phrase 'Netzach Yisrael lo yekazev' mean?"
+      ]
+    },
+    {
+      "id": "omer-week-5-hod",
+      "title": "Omer Week 5: Hod (Humility, Gratitude & Submissiveness to Truth)",
+      "hebrewTitle": "שָׁבוּעַ חֲמִישִׁי בָּעֹמֶר - סְפִירַת הוֹד",
+      "category": "CALENDAR_FACT",
+      "citation": "Psalms 111:3; Proverbs 22:4",
+      "tags": ["omer", "hod", "humility", "gratitude", "week 5", "lag baomer", "aaron"],
+      "overview": "The fifth week of Sefirat HaOmer (Days 29 to 35) cultivates Hod—humility, gratitude, sincerity, and acknowledgment of higher truth. The word Hod shares a root with 'Todah' (thankfulness) and 'Lehodot' (to admit). It culminates on Day 33 (Lag BaOmer - Hod of Hod), marking spiritual illumination.",
+      "historicalBackground": "Associated with Aaron the High Priest, whose profound humility allowed him to rejoice genuinely when his younger brother Moses was chosen as leader.",
+      "torahSources": [
+        "Proverbs 22:4: 'The reward of humility and the fear of the Lord is riches, and honor, and life.'"
+      ],
+      "classicalCommentary": "Rabbi Abraham Isaac Kook writes that Hod is the inner quietness allowing human beings to stand in awe before divine majesty without needing to dominate.",
+      "bneiMenashePerspective": "In Mizo and Kuki culture, respectful submissiveness to elders (Tlawmngaihna) parallels biblical Hod—putting community needs ahead of self-interest.",
+      "practicalLessons": [
+        "Active Gratitude: Acknowledge daily blessings; humility opens our eyes to how much we receive from others."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is Lag BaOmer (Day 33) associated specifically with Hod of Hod?",
+          "answer": "Because Rabbi Shimon bar Yochai achieved complete ego surrender (Hod of Hod) inside the cave, allowing him to receive the deepest secrets of Kabbalah."
+        }
+      ],
+      "relatedTopics": ["Lag BaOmer Celebrations", "High Priest Aaron", "Week 6 Yesod"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How does gratitude relate directly to emotional humility?"
+      ]
+    },
+    {
+      "id": "omer-week-6-yesod",
+      "title": "Omer Week 6: Yesod (Bonding, Integrity & Foundation of Trust)",
+      "hebrewTitle": "שָׁבוּעַ שִׁשִּׁי בָּעֹמֶר - סְפִירַת יְסוֹד",
+      "category": "CALENDAR_FACT",
+      "citation": "Proverbs 10:25; Zohar I 182a",
+      "tags": ["omer", "yesod", "bonding", "foundation", "week 6", "joseph", "trust"],
+      "overview": "The sixth week of Sefirat HaOmer (Days 36 to 42) focuses on Yesod—foundation, bonding, interpersonal commitment, and moral integrity. Yesod serves as the conduit channeling all higher emotions (kindness, discipline, harmony, endurance, humility) into genuine connection with another person.",
+      "historicalBackground": "Associated with Joseph the Righteous (Yosef HaTzadik), father of Manasseh and Ephraim, who maintained absolute moral integrity in Egypt despite intense temptation.",
+      "torahSources": [
+        "Proverbs 10:25: 'And the righteous is an everlasting foundation (Tzadik yesod olam).'"
+      ],
+      "classicalCommentary": "The Zohar explains that Yesod connects the giver and receiver. Without trust and personal integrity, even the most profound love remains theoretical.",
+      "bneiMenashePerspective": "As direct descendants of Joseph through Manasseh, Week 6 holds profound significance for Bnei Menashe. Joseph's ability to forgive his brothers and rebuild family trust is our model for Jewish unity.",
+      "practicalLessons": [
+        "Honoring Commitments: Keep your promises strictly; trust is the bedrock of marriage, friendship, and community."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is Joseph called 'Tzadik Yesod Olam'?",
+          "answer": "Because his moral self-control and loyalty under temptation established the foundational standard of holiness for all future generations."
+        }
+      ],
+      "relatedTopics": ["Tribe of Manasseh", "Joseph in Egypt", "Week 7 Malchut"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "How does Yesod transform emotional feelings into committed action?"
+      ]
+    },
+    {
+      "id": "omer-week-7-malchut",
+      "title": "Omer Week 7: Malchut (Sovereignty, Dignity & Culmination at Sinai)",
+      "hebrewTitle": "שָׁבוּעַ שְׁבִיעִי בָּעֹמֶר - סְפִירַת מַלְכוּת",
+      "category": "CALENDAR_FACT",
+      "citation": "Psalms 145:13; Zohar I 248b",
+      "tags": ["omer", "malchut", "sovereignty", "leadership", "week 7", "david", "shavuot"],
+      "overview": "The seventh and concluding week of Sefirat HaOmer (Days 43 to 49) refines Malchut—sovereignty, noble dignity, self-mastery, and practical implementation. Malchut possesses no light of its own, but receives and expresses all six prior attributes in tangible physical reality. On Day 50, we step forward to receive the Torah on Shavuot.",
+      "historicalBackground": "Associated with King David, whose leadership combined absolute personal humility before God with noble royal dignity when defending Israel.",
+      "torahSources": [
+        "Psalms 145:13: 'Your kingdom is a kingdom for all ages (Malchutcha malchut kol olamim), and Your dominion endures throughout all generations.'"
+      ],
+      "classicalCommentary": "Chassidic philosophy teaches that true Malchut is not bossing others around, but possessing sovereign self-control over one's own speech, thoughts, and actions.",
+      "bneiMenashePerspective": "Standing together on Day 49 (Malchut of Malchut), our community rejoices in completing the 7-week cycle, entering Shavuot ready to reaffirm: 'Na'aseh V'Nishma' (We will do and we will listen).",
+      "practicalLessons": [
+        "Personal Royalty: Treat yourself and every human being with the dignity befitting children of the Divine King."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do we count 49 days but celebrate Shavuot on the 50th day without counting Day 50?",
+          "answer": "Forty-nine days represent the limit of human effort in refining our character; the 50th gate of divine revelation is a supernatural gift bestowed directly by God upon those who prepare."
+        }
+      ],
+      "relatedTopics": ["Shavuot Festival", "King David", "Ten Commandments"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What happens on Shavuot night immediately following the conclusion of the Omer?"
+      ]
+    }
+  ]
+}

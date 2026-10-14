@@ -1,0 +1,297 @@
+{
+  "topicGroup": "Prayer Times",
+  "description": "Comprehensive production reference detailing Halachic prayer times (Zmanim), astronomical solar angles, proportional hours (Shaot Zmaniyot), and topographical horizon rules.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "zmanim-alot-hashachar",
+      "title": "Alot HaShachar: Astronomical Dawn & First Light",
+      "hebrewTitle": "עֲלוֹת הַשַּׁחַר - תְּחִלַּת הַיּוֹם",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Pesachim 2b; Shulchan Aruch O.C. 89:1",
+      "tags": ["alot hashachar", "dawn", "zmanim", "morning", "fasting", "sun"],
+      "overview": "Alot HaShachar (Astronomical Dawn) marks the very first appearance of sunlight illuminating the eastern horizon while the solar disc is still 16.1 degrees (or 72 minutes) below the horizon. It marks the Halachic beginning of the day regarding fast days, when minor fasts commence and when nighttime sacrificial rituals ceased in the Temple.",
+      "historicalBackground": "In the Jerusalem Temple, priests climbed to the highest roof watchpost waiting for the first rays of dawn ('Ad Hebron') before initiating daily morning offerings.",
+      "torahSources": [
+        "Psalms 130:6: 'My soul waits for the Lord more than watchmen wait for the morning; yea, more than watchmen for the morning.'"
+      ],
+      "classicalCommentary": "Mishnah Berurah explains that although night ends at Alot HaShachar, morning prayers and Tallit/Tefillin donning are delayed until Misheyakir when daylight is bright enough to recognize someone at four cubits distance.",
+      "bneiMenashePerspective": "During minor fasts like Asara B'Tevet or 17th of Tammuz, Bnei Menashe families wake early before Alot HaShachar to drink water and eat a light meal before fasting begins.",
+      "practicalLessons": [
+        "Vigilance: Begin spiritual preparation before the rush of daily activities overwhelms your attention."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Can morning Shema be recited at Alot HaShachar in an emergency?",
+          "answer": "Yes, if someone must embark on an urgent early flight or military deployment before sunrise, they may recite Shema and Shacharit after Alot HaShachar."
+        }
+      ],
+      "relatedTopics": ["Misheyakir", "Laws of Fast Days", "Shaot Zmaniyot"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "How many degrees below the horizon is the sun at Alot HaShachar?"
+      ]
+    },
+    {
+      "id": "zmanim-misheyakir",
+      "title": "Misheyakir: Earliest Time for Tallit, Tefillin & Recognition",
+      "hebrewTitle": "מִשֶּׁיַּכִּיר - זְמַן טַלִּית וּתְפִלִּין",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 9b; Shulchan Aruch O.C. 18:3",
+      "tags": ["misheyakir", "tallit", "tefillin", "tzitzit", "zmanim", "morning"],
+      "overview": "Misheyakir occurs approximately 45-50 minutes (11.5 degrees) before astronomical sunrise. It is defined in the Talmud as the moment morning light allows a person to distinguish between blue (Techelet) and white threads on Tzitzit, or recognize a casual acquaintance at a distance of four cubits. This is the earliest time one may put on Tallit and Tefillin with blessings.",
+      "historicalBackground": "Established to ensure that visual commandments (like Tzitzit: 'And you shall see them') are performed when natural light makes recognition possible.",
+      "torahSources": [
+        "Numbers 15:39: 'And it shall be unto you for a fringe, that you may look upon it, and remember all the commandments of the Lord.'"
+      ],
+      "classicalCommentary": "Shulchan Aruch rules that putting on Tefillin before Misheyakir requires repeating the touching of the boxes after Misheyakir arrives.",
+      "bneiMenashePerspective": "Synagogue Shacharit Minyanim in Churachandpur synchronize their start times slightly after Misheyakir so congregants can wrap Tefillin in peace before sunrise.",
+      "practicalLessons": [
+        "Clarity of Vision: Wait until you have clear moral and factual visibility before making binding commitments."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What should someone do if they accidentally put on Tefillin in pitch darkness?",
+          "answer": "They should wear them without reciting the blessing until daylight reaches Misheyakir, then touch the Tefillin boxes and recite the blessings."
+        }
+      ],
+      "relatedTopics": ["Alot HaShachar", "Hanetz HaChama", "Laws of Tefillin"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why does the Talmud use distinguishing between blue and white threads as the standard?"
+      ]
+    },
+    {
+      "id": "zmanim-hanetz-hachama",
+      "title": "Hanetz HaChama: Astronomical Sunrise & Vatikin Prayer",
+      "hebrewTitle": "הָנֵץ הַחַמָּה - תְּפִלַּת וָתִיקִין",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 26a; Shulchan Aruch O.C. 58:1, 89:1",
+      "tags": ["hanetz hachama", "sunrise", "vatikin", "shacharit", "amidah", "zmanim"],
+      "overview": "Hanetz HaChama (Astronomical Sunrise) occurs when the upper edge of the sun's disc appears above the sea-level horizon. Praying the silent Amidah precisely at sunrise—known as Vatikin—is considered the ideal praise, connecting daytime redemption directly with sunrise.",
+      "historicalBackground": "The ancient Vatikin saints timed their morning Shema so that the final redemption blessing ('Ga'al Yisrael') concluded precisely the exact second the sun broke over the horizon.",
+      "torahSources": [
+        "Psalms 72:5: 'They shall fear You with the sun, and before the moon, throughout all generations.'"
+      ],
+      "classicalCommentary": "Rambam writes that praying at sunrise demonstrates eagerness to fulfill God's will immediately upon the commencement of daytime.",
+      "bneiMenashePerspective": "In mountainous hill regions, mountain ridges block direct visual sunrise. Our platform calculates astronomical sea-level Hanetz HaChama so communities pray accurately.",
+      "practicalLessons": [
+        "Synchronous Harmony: Align your daily routine with the natural rhythms of creation."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Is visual sunrise over a mountain considered Hanetz HaChama?",
+          "answer": "No, Halachic Hanetz HaChama is based on sea-level astronomical calculations rather than local mountain shadows."
+        }
+      ],
+      "relatedTopics": ["Misheyakir", "Sof Zman Kriyat Shema", "Topographical Rules"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What is the spiritual significance of the Vatikin prayer practice?"
+      ]
+    },
+    {
+      "id": "zmanim-sof-zman-shema",
+      "title": "Sof Zman Kriyat Shema: Latest Deadline for Morning Shema",
+      "hebrewTitle": "סוֹף זְמַן קְרִיאַת שְׁמַע - שָׁלֹשׁ שָׁעוֹת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 2a; Shulchan Aruch O.C. 58:1",
+      "tags": ["sof zman shema", "shema", "deadline", "morning", "zmanim", "shaot zmaniyot"],
+      "overview": "Sof Zman Kriyat Shema is the Halachic deadline for reciting the morning Shema with its blessings. It marks the conclusion of the first three proportional hours (Shaot Zmaniyot) of the day, which corresponds to the time royalty traditionally woke up in ancient society.",
+      "historicalBackground": "Calculated either according to Magen Avraham (dividing the day from dawn to nightfall) or Gra/Vilna Gaon (dividing the day from sunrise to sunset).",
+      "torahSources": [
+        "Deuteronomy 6:7: 'And you shall talk of them... when you lie down, and when you rise up (U'be'kumecha).'"
+      ],
+      "classicalCommentary": "The Mishnah defines 'when you rise up' as the hours when people regularly rise from sleep; once three proportional hours pass, the time of rising has concluded.",
+      "bneiMenashePerspective": "Synagogues publish exact daily Shema deadlines prominently on bulletin boards and mobile app alerts to ensure no congregant misses the biblical commandment.",
+      "practicalLessons": [
+        "Discipline of Time: Spiritual obligations have firm boundaries; punctuality demonstrates reverence."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What if someone wakes up late after the Shema deadline has passed?",
+          "answer": "They must still recite the verses of Shema without its surrounding blessings throughout the rest of the day to fulfill daily Torah study."
+        }
+      ],
+      "relatedTopics": ["Sof Zman Tefillah", "Shaot Zmaniyot Calculation"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What is the difference between Magen Avraham and Gra calculations for Shema?"
+      ]
+    },
+    {
+      "id": "zmanim-sof-zman-tefillah",
+      "title": "Sof Zman Tefillah: Latest Deadline for Morning Shacharit Amidah",
+      "hebrewTitle": "סוֹף זְמַן תְּפִלָּה - אַרְבַּע שָׁעוֹת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 26a; Shulchan Aruch O.C. 89:1",
+      "tags": ["sof zman tefillah", "shacharit", "amidah", "deadline", "morning", "zmanim"],
+      "overview": "Sof Zman Tefillah is the deadline for praying the morning Shacharit Amidah. It marks the conclusion of the fourth proportional hour (Shaot Zmaniyot) of the day, corresponding to one-third of the daylight hours when daily morning Temple sacrifices were completed.",
+      "historicalBackground": "Corresponds to the daily Tamid morning sacrifice offered in the Sanctuary before the fourth hour ended.",
+      "torahSources": [
+        "Numbers 28:4: 'The one lamb shall you offer in the morning...'"
+      ],
+      "classicalCommentary": "If someone unavoidably missed praying before the fourth hour, they may still pray Shacharit until midday (Chatzot), though they receive reward for prayer rather than timely prayer.",
+      "bneiMenashePerspective": "Our rabbis encourage scheduling morning Minyanim well before the fourth hour to allow unhurried meditation.",
+      "practicalLessons": [
+        "Prioritization: Give your highest morning energy and focus to prayer before tackling secular work."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Can someone pray Shacharit after midday (Chatzot)?",
+          "answer": "No, once midday passes, the time for Shacharit has ended, and one must instead pray two Mincha Amidahs if Shacharit was missed inadvertently."
+        }
+      ],
+      "relatedTopics": ["Sof Zman Kriyat Shema", "Chatzot Hayom"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How is a missed morning prayer made up during the afternoon service?"
+      ]
+    },
+    {
+      "id": "zmanim-chatzot-hayom",
+      "title": "Chatzot Hayom: Exact Solar Midday & Sun's Zenith",
+      "hebrewTitle": "חֲצוֹת הַיּוֹם - חֲצִי הַיּוֹם",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Pesachim 58b; Shulchan Aruch O.C. 233",
+      "tags": ["chatzot", "midday", "zenith", "zmanim", "sun", "mincha"],
+      "overview": "Chatzot Hayom is exact astronomical solar midday—the midpoint between sunrise and sunset when the sun reaches its highest altitude (zenith) in the sky. At Chatzot, morning Shacharit time ends and afternoon Mincha time begins (30 minutes later at Mincha Gedolah).",
+      "historicalBackground": "On Erev Pesach, Chatzot marked the exact moment when the prohibition against eating Chametz took full biblical effect and Passover lamb slaughter commenced.",
+      "torahSources": [
+        "Deuteronomy 16:6: 'There shall you sacrifice the Passover at evening, at the going down of the sun...'"
+      ],
+      "classicalCommentary": "Because solar midday divides the day exactly in half, Chatzot is identical every day at standard solar longitude regardless of seasonal day length.",
+      "bneiMenashePerspective": "Exact Chatzot calculations ensure proper timing for burning Chametz on Erev Pesach across all community centers.",
+      "practicalLessons": [
+        "Equilibrium: Midday reminds us to pause work and re-evaluate our ethical compass half-way through the day."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Is Chatzot always at 12:00 PM clock time?",
+          "answer": "No, depending on geographic longitude, daylight savings time, and solar equations of time, Chatzot typically falls between 11:35 AM and 1:00 PM."
+        }
+      ],
+      "relatedTopics": ["Mincha Gedolah", "Laws of Erev Pesach"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What is Chatzot HaLailah (solar midnight) and its liturgical significance?"
+      ]
+    },
+    {
+      "id": "zmanim-mincha-gedolah-ketanah",
+      "title": "Mincha Gedolah & Mincha Ketanah: Afternoon Prayer Windows",
+      "hebrewTitle": "מִנְחָה גְּדוֹלָה וּמִנְחָה קְטַנָּה",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 26b; Shulchan Aruch O.C. 233:1",
+      "tags": ["mincha", "mincha gedolah", "mincha ketanah", "afternoon", "zmanim", "prayer"],
+      "overview": "Mincha Gedolah (Earliest Afternoon Prayer) begins one-half proportional hour after solar midday (Chatzot + 30 proportional minutes). Mincha Ketanah (Preferred Afternoon Prayer) begins at 9.5 proportional hours of the day (2.5 hours before sunset), corresponding precisely to the time the daily afternoon sacrifice was offered in Jerusalem.",
+      "historicalBackground": "Instituted by the Patriarch Isaac (Yitzchak), who meditated in the field toward evening.",
+      "torahSources": [
+        "Genesis 24:63: 'And Isaac went out to meditate in the field at the eventide (Lifnot erev).'"
+      ],
+      "classicalCommentary": "Rambam emphasizes that Mincha is particularly precious because it requires pausing right in the middle of a busy workday business schedule to turn toward God.",
+      "bneiMenashePerspective": "In Churachandpur and Nof HaGalil, afternoon Mincha services are scheduled right around sunset to allow workers returning from jobs to attend before Maariv.",
+      "practicalLessons": [
+        "Spiritual Priority amidst Business: Do not let financial pursuits crowd out daily connection with the Creator."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is it preferable to wait for Mincha Ketanah rather than praying at Mincha Gedolah?",
+          "answer": "Because Mincha Ketanah aligns directly with the exact afternoon hour when the Temple incense and lamb sacrifice were offered."
+        }
+      ],
+      "relatedTopics": ["Plag HaMincha", "Chatzot Hayom", "Maariv Evening Prayer"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What should one do if starting a heavy workday meal before Mincha time?"
+      ]
+    },
+    {
+      "id": "zmanim-plag-hamincha",
+      "title": "Plag HaMincha: Accepting Early Shabbat & Evening Transition",
+      "hebrewTitle": "פְּלַג הַמִּנְחָה - קַבָּלַת שַׁבָּת מֻקְדֶּמֶת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Berachot 26a; Shulchan Aruch O.C. 267:2",
+      "tags": ["plag hamincha", "shabbat", "early shabbat", "zmanim", "evening", "transition"],
+      "overview": "Plag HaMincha ('Half of Mincha') occurs exactly 1.25 proportional hours before sunset (at 10.75 proportional hours of the day). According to Rabbi Judah in the Talmud, this marks the earliest transition point where afternoon concludes and evening begins, allowing one to accept Shabbat early or pray evening Maariv.",
+      "historicalBackground": "Calculated by splitting the 2.5 proportional hours between Mincha Ketanah and sunset into two halves of 1.25 hours each.",
+      "torahSources": [
+        "Berachot 26a: 'Rabbi Judah says: Until Plag HaMincha...'"
+      ],
+      "classicalCommentary": "Shulchan Aruch rules that if one prays Mincha before Plag HaMincha, they may immediately pray Maariv and accept Shabbat candles after Plag arrives, provided they repeat nighttime Shema after star-fall.",
+      "bneiMenashePerspective": "In long summer months in northern Israel, families utilize Plag HaMincha to bring Shabbat in early so young children can participate in Friday night Seudah meals before bedtime.",
+      "practicalLessons": [
+        "Flexibility in Holiness: Halacha provides structured pathways to adjust timing for family needs while maintaining ritual integrity."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Can someone pray both Mincha and Maariv after Plag HaMincha on the same day?",
+          "answer": "To avoid self-contradiction, one should ideally pray Mincha before Plag and Maariv after Plag."
+        }
+      ],
+      "relatedTopics": ["Shabbat Candle Lighting", "Tzeit HaKochavim"],
+      "difficultyLevel": "Advanced",
+      "suggestedFollowUpQuestions": [
+        "Why must nighttime Shema be repeated after dark if prayed early at Plag HaMincha?"
+      ]
+    },
+    {
+      "id": "zmanim-shkiah-sunset",
+      "title": "Shkiah: Astronomical Sunset & Bein HaShemashot Twilight",
+      "hebrewTitle": "שְׁקִיעַת הַחַמָּה - בֵּין הַשְּׁמָשׁוֹת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Shabbat 34b; Shulchan Aruch O.C. 261",
+      "tags": ["shkiah", "sunset", "twilight", "bein hashemashot", "shabbat", "zmanim"],
+      "overview": "Shkiah (Astronomical Sunset) occurs when the upper edge of the solar disc disappears below the sea-level horizon. Shkiah marks the end of definite daytime and initiates Bein HaShemashot (doubtful twilight), during which all Sabbath prohibitions take full effect.",
+      "historicalBackground": "In Jewish law, calendar dates transition at evening ('And there was evening and there was morning'). Shkiah initiates the transition between yesterday and tomorrow.",
+      "torahSources": [
+        "Leviticus 22:7: 'And when the sun goes down (U'ba ha-shemesh), he shall be clean...'"
+      ],
+      "classicalCommentary": "The Gaon of Vilna rules that twilight lasts approximately 13.5 to 18 minutes after Shkiah, after which total nightfall arrives.",
+      "bneiMenashePerspective": "Our platform engine strictly calculates astronomical horizon Shkiah for Manipur valleys, ensuring communities light Sabbath candles 18 minutes before true sunset.",
+      "practicalLessons": [
+        "Respecting Boundaries: Twilight reminds us to treat transition moments with extreme care and reverence."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "If a baby is born during Bein HaShemashot twilight on Friday evening, when is the Brit Milah?",
+          "answer": "Because twilight is doubtful whether it belongs to Friday or Shabbat, circumcision is pushed to Sunday (the 9th day from Friday)."
+        }
+      ],
+      "relatedTopics": ["Candle Lighting Topography", "Tzeit HaKochavim"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What actions are forbidden during Bein HaShemashot twilight?"
+      ]
+    },
+    {
+      "id": "zmanim-tzeit-hakochavim",
+      "title": "Tzeit HaKochavim: Emergence of Three Stars & Total Nightfall",
+      "hebrewTitle": "צֵאת הַכּוֹכָבִים - וַדַּאי לַיְלָה",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Shabbat 35b; Shulchan Aruch O.C. 235:1",
+      "tags": ["tzeit hakochavim", "stars", "nightfall", "havdalah", "shema", "fast ending", "zmanim"],
+      "overview": "Tzeit HaKochavim (Emergence of Stars) marks complete, definite nightfall when three medium-sized stars become visible in the night sky (astronomically corresponding to when the sun descends between 8.5 degrees to 8.75 degrees below the horizon). This marks when evening Shema may be recited, fast days end, and Shabbat Havdalah is performed.",
+      "historicalBackground": "Derived from Nehemiah building the wall of Jerusalem from dawn until the emergence of stars.",
+      "torahSources": [
+        "Nehemiah 4:15: 'So we labored at the work; and half of them held the spears from the rising of the morning till the stars appeared.'"
+      ],
+      "classicalCommentary": "For ending Shabbat (Havdalah), Sefardi custom waits until three small stars appear (or 8.5 degrees solar depression, ~42 minutes after sunset), while Rabbeinu Tam waits 72 minutes.",
+      "bneiMenashePerspective": "When Shabbat ends in Beith Shalom Synagogue, youth gather around the Havdalah candle singing 'Eliahu HaNavi' as exact star-fall confirms the start of a new week.",
+      "practicalLessons": [
+        "Complete Closure: Do not rush to leave holy days until verified nightfall confirms the sacred time has fully completed its cycle."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the Rabbeinu Tam time for ending Shabbat?",
+          "answer": "A strict opinion requiring waiting 72 proportional minutes after sunset before doing weekday work, observed by many pious individuals."
+        }
+      ],
+      "relatedTopics": ["Havdalah Ceremony", "Evening Maariv Prayer", "Ending Fasts"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What blessings are recited during the Saturday night Havdalah ceremony?"
+      ]
+    }
+  ]
+}

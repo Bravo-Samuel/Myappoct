@@ -1,0 +1,212 @@
+{
+  "topicGroup": "Fast Days",
+  "description": "Comprehensive production resource covering all major and minor Jewish fast days, historical context, liturgical laws, and Halachic principles.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "fast-tzom-gedaliah",
+      "title": "Tzom Gedaliah: The Fast of Gedaliah & Tragic Loss of Jewish Autonomy",
+      "hebrewTitle": "צוֹם גְּדַלְיָה - גָּלוּת בָּבֶל",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "II Kings 25:25; Jeremiah 41:1-3; Zechariah 8:19",
+      "tags": ["tzom gedaliah", "fast", "tishrei", "gedaliah", "babylon", "autonomy", "rosh hashanah"],
+      "overview": "Observed on the 3rd of Tishrei (immediately following Rosh Hashanah), Tzom Gedaliah is a dawn-to-dusk minor fast lamenting the assassination of Gedaliah ben Ahikam, the righteous governor appointed by Babylon over the surviving Jewish remnant in Judea following the First Temple's destruction. His murder triggered complete exile and the dispersion of the last Jews left in the land.",
+      "historicalBackground": "After King Nebuchadnezzar destroyed Jerusalem in 586 BCE, he allowed poor laborers and farmers to remain under Gedaliah's compassionate leadership at Mizpah. A jealous royal descendant, Ishmael ben Nethaniah, treacherously assassinated Gedaliah during a holiday meal.",
+      "torahSources": [
+        "Zechariah 8:19: 'Thus says the Lord of hosts: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh (Tzom Gedaliah)... shall be to the house of Judah joy and gladness.'"
+      ],
+      "classicalCommentary": "Rosh Hashanah Talmud Bavli (18b) states: 'The death of the righteous is equated by God to the burning of the House of our God.' This teaches that righteous leadership holds the community together just as firmly as the Temple stones.",
+      "bneiMenashePerspective": "For Bnei Menashe, whose ancestors experienced political collapse and forced migration across Asia, Tzom Gedaliah stands as a sobering reminder of internal division. Synagogue sermons emphasize fostering internal brotherhood to safeguard modern Israeli sovereignty.",
+      "practicalLessons": [
+        "Guard Against Internal Violence: Political factionalism and internal hatred destroy nations faster than external armies.",
+        "Cherish Righteous Leaders: Honor leaders who prioritize community stability and agricultural rehabilitation over personal ego."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What happens if the 3rd of Tishrei falls on Shabbat?",
+          "answer": "Because fasting on Shabbat is forbidden (except for Yom Kippur), Tzom Gedaliah is postponed until Sunday, the 4th of Tishrei."
+        }
+      ],
+      "relatedTopics": ["Rosh Hashanah", "Ten Days of Repentance", "Destruction of First Temple"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "Why is Tzom Gedaliah called 'the fast of the seventh month' in the Book of Zechariah?"
+      ]
+    },
+    {
+      "id": "fast-yom-kippur",
+      "title": "Yom Kippur Fast: The Sole Biblical 25-Hour Day of Atonement",
+      "hebrewTitle": "יוֹם הַכִּפּוּרִים - תַּעֲנִית דְּאוֹרַיְתָא",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Leviticus 16:29; Shulchan Aruch O.C. 611",
+      "tags": ["yom kippur", "fasting", "atonement", "tishrei", "biblical fast", "forgiveness"],
+      "overview": "Unlike rabbinically instituted historical fasts, Yom Kippur (10th of Tishrei) is the sole biblical fast day mandated directly by the Torah ('You shall afflict your souls'). It runs for 25 hours from sunset to star-fall and overrides Shabbat prohibitions against fasting.",
+      "historicalBackground": "Commemorating the day Moses brought down the second stone tablets from Mount Sinai, proving God had forgiven Israel for the Golden Calf idol.",
+      "torahSources": [
+        "Leviticus 16:29: 'In the seventh month, on the tenth day of the month, you shall afflict your souls, and do no manner of work.'"
+      ],
+      "classicalCommentary": "Ramban explains that 'afflicting our souls' means withdrawing from worldly physical sustenance so the soul can soar unhindered before divine judgment.",
+      "bneiMenashePerspective": "In Churachandpur and Nof HaGalil, families eat a nourishing pre-fast Seudah HaMafseket meal before entering synagogue for 25 hours of uninterrupted liturgical worship.",
+      "practicalLessons": [
+        "Spiritual Independence: Human beings are not slaves to biological appetite; we possess spiritual willpower."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Does Yom Kippur fast get pushed off if it falls on Shabbat?",
+          "answer": "No. Because the Torah explicitly calls Yom Kippur 'Shabbat Shabbaton' (Sabbath of Sabbaths), it takes precedence and is observed with full fasting even on Shabbat."
+        }
+      ],
+      "relatedTopics": ["Kol Nidre Prayer", "Neilah Concluding Service", "Aseret Yemei Teshuvah"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What are the five mandatory physical abstentions observed on Yom Kippur?"
+      ]
+    },
+    {
+      "id": "fast-asara-btevet",
+      "title": "Asara B'Tevet: Fast of the 10th of Tevet & Siege of Jerusalem",
+      "hebrewTitle": "עֲשָׂרָה בְּטֵבֵת - יוֹם הַקַּדִּישׁ הַכְּלָלִי",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "II Kings 25:1; Ezekiel 24:1-2; Zechariah 8:19",
+      "tags": ["asara btevet", "10 tevet", "fast", "siege", "jerusalem", "holocaust", "kaddish"],
+      "overview": "Observed on the 10th of Tevet, this dawn-to-dusk fast commemorates the onset of the Babylonian siege against Jerusalem by King Nebuchadnezzar in 588 BCE, which ended 30 months later in the burning of Solomon's Temple. In modern times, the Chief Rabbinate of Israel designated Asara B'Tevet as Yom HaKaddish HaKlali—the General Kaddish Day for Holocaust victims whose exact date of death is unknown.",
+      "historicalBackground": "On this exact winter day, Babylonian battering rams encircled Jerusalem's walls, cutting off food and water supplies.",
+      "torahSources": [
+        "Ezekiel 24:2: 'Son of man, write the name of the day, even of this selfsame day: the king of Babylon has invested Jerusalem this selfsame day.'"
+      ],
+      "classicalCommentary": "Abudraham notes that Asara B'Tevet is so strict regarding its historical timing that even if it falls on a Friday, we fast right up until Shabbat candle lighting.",
+      "bneiMenashePerspective": "During Asara B'Tevet services in Israel, Bnei Menashe youth light memorial candles reciting Kaddish both for ancient martyrs of Jerusalem and modern Holocaust victims, uniting tribal memory with national destiny.",
+      "practicalLessons": [
+        "Early Intervention: Notice small breaches in spiritual or social boundaries before they escalate into complete catastrophe."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "When does the Asara B'Tevet fast begin and end?",
+          "answer": "It begins at dawn (Alot HaShachar) and concludes at nightfall (Tzeit HaKochavim) when three medium stars emerge."
+        }
+      ],
+      "relatedTopics": ["Destruction of First Temple", "General Kaddish Day", "Month of Tevet"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "Why is Asara B'Tevet the only minor fast that can be observed on a Friday?"
+      ]
+    },
+    {
+      "id": "fast-taanit-esther",
+      "title": "Ta'anit Esther: The Fast of Esther Before Purim Deliverance",
+      "hebrewTitle": "תַּעֲנִית אֶסְתֵּר - תְּפִלָּה וְיְשׁוּעָה",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Esther 4:16; Shulchan Aruch O.C. 686",
+      "tags": ["taanit esther", "esther", "fast", "purim", "adar", "megillah", "prayer"],
+      "overview": "Ta'anit Esther is a dawn-to-dusk minor fast observed on the 13th of Adar, the day immediately preceding Purim. It commemorates Queen Esther's call for all Jews of Shushan to fast and pray with her for three days before she approached King Ahashverosh uninvited to plead for her people.",
+      "historicalBackground": "In ancient Persia, approaching the throne room without royal summons carried an immediate death penalty. Esther mobilized the entire community's spiritual unity before acting politically.",
+      "torahSources": [
+        "Esther 4:16: 'Go, gather together all the Jews that are present in Shushan, and fast for me, and neither eat nor drink three days, night or day; I also and my maidens will fast likewise...'"
+      ],
+      "classicalCommentary": "Rambam teaches that Ta'anit Esther reminds us that whenever Israel faces existential danger, victory is achieved not merely by physical tactics but through sincere collective supplication.",
+      "bneiMenashePerspective": "In Churachandpur and Aizawl synagogues, Ta'anit Esther afternoon Mincha services conclude with giving half-shekel coins to charity (Zecher LeMachatzit HaShekel) before breaking the fast into Purim Megillah readings.",
+      "practicalLessons": [
+        "Spiritual Preparation for Action: Always ground bold leadership decisions in deep prayer and community solidarity."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What happens when Purim falls on a Sunday?",
+          "answer": "Because we do not fast on Shabbat or Friday (to avoid disrupting Sabbath prep), Ta'anit Esther is advanced to the preceding Thursday, the 11th of Adar."
+        }
+      ],
+      "relatedTopics": ["Purim Festival", "Megillat Esther", "Month of Adar"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why is charity given during the afternoon service of Ta'anit Esther?"
+      ]
+    },
+    {
+      "id": "fast-taanit-bechorot",
+      "title": "Ta'anit Bechorot: Fast of the Firstborn on Erev Pesach",
+      "hebrewTitle": "תַּעֲנִית בְּכוֹרוֹת - עֶרֶב פֶּסַח",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Masechet Soferim 21:3; Shulchan Aruch O.C. 470",
+      "tags": ["taanit bechorot", "firstborn", "pesach", "siyum", "nisan", "fast", "passover"],
+      "overview": "Observed on Erev Pesach (the morning of the 14th of Nisan), Ta'anit Bechorot is a unique fast undertaken by all firstborn Jewish sons (or fathers on behalf of young firstborn sons). It expresses gratitude to God for passing over and sparing the Jewish firstborn during the tenth plague in Egypt.",
+      "historicalBackground": "During the plague of the firstborn at midnight in Egypt, God spared Jewish homes marked with lamb's blood on their doorposts.",
+      "torahSources": [
+        "Exodus 13:14-15: 'And it shall be when your son asks you... saying: By strength of hand the Lord brought us out from Egypt... the Lord slew all the firstborn in the land of Egypt... therefore I sacrifice to the Lord all that opens the womb.'"
+      ],
+      "classicalCommentary": "Shulchan Aruch notes that widespread custom allows firstborn sons to participate in a Seudat Mitzvah (religious banquet), such as completing a Talmudic tractate (Siyum), which exempts them from fasting the rest of the day so they enter the Passover Seder refreshed.",
+      "bneiMenashePerspective": "On Passover morning in Beith Shalom Synagogue, rabbis conduct celebratory Siyum ceremonies completing Masechet Pesachim, allowing firstborn Bnei Menashe youth to partake of festive cake and fruits before burning the remaining Chametz.",
+      "practicalLessons": [
+        "Gratitude for Life: Firstborn sons carry special responsibility to dedicate their lives to community service and religious leadership."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How does attending a Siyum exempt someone from fasting?",
+          "answer": "Halacha rules that the joy of completing a portion of Torah creates a festival-like atmosphere for participants, overriding minor custom fasts."
+        }
+      ],
+      "relatedTopics": ["Passover Seder Preparation", "Biur Chametz", "Month of Nisan"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What constitutes a valid Siyum for ending the Fast of the Firstborn?"
+      ]
+    },
+    {
+      "id": "fast-17-tammuz",
+      "title": "Shiv'ah Asar B'Tammuz: Breach of Jerusalem & The Three Weeks",
+      "hebrewTitle": "שִׁבְעָה עָשָׂר בְּתַמּוּז - תְּחִלַּת בֵּין הַמְּצָרִים",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Mishnah Ta'anit 4:6; Zechariah 8:19",
+      "tags": ["17 tammuz", "tammuz", "three weeks", "breach", "jerusalem", "tablets", "fast"],
+      "overview": "Observed on the 17th of Tammuz, this dawn-to-dusk fast initiates the solemn Three Weeks of mourning (Bein HaMezarim) leading up to Tisha B'Av. The Mishnah enumerates five national calamities that occurred on this day: Moses broke the first stone tablets upon witnessing the Golden Calf, daily sacrificial offerings ceased in the First Temple, Roman legions breached Jerusalem's walls prior to the Second Temple destruction, Apostemos burned a Torah scroll, and an idol was erected in the Sanctuary.",
+      "historicalBackground": "Following months of Roman siege under Titus in 70 CE, starving defenders could no longer hold the outer walls on the 17th of Tammuz, allowing Roman troops to flood into Jerusalem.",
+      "torahSources": [
+        "Exodus 32:19: 'And Moses' anger burned, and he cast the tables out of his hands, and broke them beneath the mount.'"
+      ],
+      "classicalCommentary": "Talmud Yerushalmi explains that when walls are breached, the physical defense crumbles only because moral and spiritual defenses inside the city had eroded previously.",
+      "bneiMenashePerspective": "Throughout the Three Weeks initiated by this fast, Bnei Menashe congregations refrain from weddings, live instrumental music, and haircuts, focusing youth seminars on rebuilding internal Jewish unity.",
+      "practicalLessons": [
+        "Protect Internal Fortifications: When moral integrity remains strong within families, outside influences cannot breach our spiritual walls."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What special prayer is added to the Amidah on fast days?",
+          "answer": "The prayer Aneinu ('Answer us, O Lord, answer us on our fast day') is added during morning and afternoon services."
+        }
+      ],
+      "relatedTopics": ["The Three Weeks", "Tisha B'Av", "Month of Tammuz"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What mourning customs apply during the Three Weeks between 17 Tammuz and 9 Av?"
+      ]
+    },
+    {
+      "id": "fast-tisha-bav",
+      "title": "Tisha B'Av: The 9th of Av & 25-Hour National Lamentation",
+      "hebrewTitle": "תִּשְׁעָה בְּאָב - יוֹם חֻרְבַּן בָּתֵּי הַמִּקְדָּשׁ",
+      "category": "HOLIDAY_FESTIVAL",
+      "citation": "Numbers 14:1; Zechariah 8:19; Masechet Ta'anit 26b-30b",
+      "tags": ["tisha bav", "9 av", "fast", "temple", "eicha", "kinot", "mourning", "av"],
+      "overview": "Tisha B'Av (the 9th of Av) is the strictest day of communal mourning on the Jewish calendar, observed as a full 25-hour fast from sunset to star-fall. It commemorates five catastrophic historical tragedies: God decreed the wilderness generation would not enter Eretz Yisrael after the Sin of the Spies, King Nebuchadnezzar burned the First Solomon Temple (586 BCE), Roman legions burned the Second Temple (70 CE), the Bar Kokhba stronghold of Beitar fell (135 CE), and the Roman plow leveled the Temple Mount.",
+      "historicalBackground": "For Bnei Menashe, the destruction of the First Temple in biblical times initiated the long eastward exile across ancient Assyria, Persia, and Asia into India.",
+      "torahSources": [
+        "Lamentations (Eicha) 1:1: 'How does the city sit solitary, that was full of people! How is she become as a widow!'",
+        "Zechariah 8:19: 'The fast of the fifth month (Tisha B'Av)... shall become joy and gladness.'"
+      ],
+      "classicalCommentary": "Talmud Yoma (9b) diagnoses that the Second Temple fell due to Sinat Chinam (baseless hatred). Rabbi Abraham Isaac Kook taught that building the Third Temple requires cultivating Ahavat Chinam (baseless, unconditional love).",
+      "bneiMenashePerspective": "In Bnei Menashe synagogues across Churachandpur and Nof HaGalil, the ark curtain (Parochet) is removed, dim candles illuminate the sanctuary, and congregants sit on low stools chanting Lamentations in melancholic Sefardi melodies.",
+      "practicalLessons": [
+        "Cultivating Unconditional Kindness: Overcoming internal division is the sole prerequisite for ultimate national redemption."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do people sit on low chairs or the floor until midday on Tisha B'Av?",
+          "answer": "To mirror traditional Shiva mourning customs for a deceased close relative, grieving for the destroyed spiritual heart of Jerusalem."
+        }
+      ],
+      "relatedTopics": ["Shiv'ah Asar B'Tammuz", "Book of Lamentations", "Rebuilding Jerusalem"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "When do congregants put on Tefillin on Tisha B'Av day?"
+      ]
+    }
+  ]
+}

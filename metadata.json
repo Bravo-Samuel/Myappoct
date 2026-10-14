@@ -1,0 +1,6 @@
+{
+  "name": "Bnei Menashe Sacred Calendar SaaS",
+  "description": "Premium cloud-based Jewish calendar, Zmanim, Torah library, community hub, and AI Rabbi platform for the global Bnei Menashe community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

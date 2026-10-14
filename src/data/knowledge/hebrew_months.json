@@ -1,0 +1,384 @@
+{
+  "topicGroup": "Hebrew Months",
+  "description": "Comprehensive production guide to the 12 lunisolar Hebrew calendar months (plus leap month Adar Bet), astrological symbols, seasonal significance, and Halachic milestones.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "month-nisan",
+      "title": "Chodesh Nisan: The Head of Months & Springtime Redemption",
+      "hebrewTitle": "חֹדֶשׁ נִיסָן - רֹאשׁ חֳדָשִׁים",
+      "category": "CALENDAR_FACT",
+      "citation": "Exodus 12:2; Rosh Hashanah Talmud Bavli 10b-11a",
+      "tags": ["nisan", "month", "rosh chodesh", "spring", "pesach", "calendar", "redemption"],
+      "overview": "Nisan is the first month of the biblical calendar year. Designated by God in Egypt as the 'head of months,' it inaugurates the cycle of redemption and spring renewal. During Nisan, we celebrate Passover, abstain from public eulogies or fasting due to its joyful nature, and recite the special tree blossom blessing (Birkat HaIlanot).",
+      "historicalBackground": "In Nisan, the patriarchs Isaac and Jacob were born, the Exodus from Egypt occurred, and the Desert Tabernacle (Mishkan) was formally erected.",
+      "torahSources": [
+        "Exodus 12:2: 'This month shall be unto you the beginning of months; it shall be the first month of the year to you.'"
+      ],
+      "classicalCommentary": "Rabbi Yehoshua teaches in the Talmud (Rosh Hashanah 11a) that in Nisan our ancestors were redeemed from Egypt, and in Nisan future redemption is destined to occur.",
+      "bneiMenashePerspective": "In the monsoon hills of Manipur and Mizoram, the arrival of spring coincides with the preparation for Passover. Community elders teach youth how to track the lunar phases to ensure exact calculation of the full moon of Nisan.",
+      "practicalLessons": [
+        "Constant Renewal: Just as nature blossoms anew in springtime, every individual possesses the power to break free from past stagnation."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why does the Hebrew calendar have two different 'New Years' (Nisan and Tishrei)?",
+          "answer": "Nisan serves as the national and religious new year for counting festival cycles and reigns of kings, while Tishrei (Rosh Hashanah) marks the agricultural new year and the anniversary of the creation of humanity."
+        }
+      ],
+      "relatedTopics": ["Pesach Festival", "Birkat HaIlanot", "Counting the Omer"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How is Rosh Chodesh celebrated in synagogue services?"
+      ]
+    },
+    {
+      "id": "month-iyyar",
+      "title": "Chodesh Iyar: Month of Divine Healing & Radiance",
+      "hebrewTitle": "חֹדֶשׁ אִיָּר - אֲנִי ה' רֹפְאֶךָ",
+      "category": "CALENDAR_FACT",
+      "citation": "Exodus 15:26; I Kings 6:1",
+      "tags": ["iyyar", "month", "healing", "ziv", "lag baomer", "omer", "pesach sheni"],
+      "overview": "Iyar is the second biblical month, historically called 'Ziv' (Radiance) because trees shine with spring blossoms. In kabbalistic tradition, the letters I-Y-A-R form the acronym 'Ani Hashem Rofecha' (I am the Lord your Healer). Every day of Iyar is encompassed within the Sefirat HaOmer count, marking continuous character refinement.",
+      "historicalBackground": "In Iyar, manna first fell from heaven for the Israelites in the wilderness, King Solomon began constructing the First Temple in Jerusalem, and in modern times, Israel achieved independence (5th of Iyar) and Jerusalem was reunified (28th of Iyar).",
+      "torahSources": [
+        "Exodus 15:26: 'If you will diligently hearken to the voice of the Lord your God... I will put none of the diseases upon you which I have put upon the Egyptians; for I am the Lord your Healer.'"
+      ],
+      "classicalCommentary": "Vilna Gaon teaches that Iyar is uniquely suited for physical and spiritual healing because during this month our ancestors transitioned from slaves into spiritually receptive recipients of divine wisdom.",
+      "bneiMenashePerspective": "During Iyar, Bnei Menashe communities in Nof HaGalil celebrate Yom HaAtzmaut and Lag BaOmer with vibrant outdoor picnics, acknowledging physical healing and national survival.",
+      "practicalLessons": [
+        "Holistic Wellness: Spiritual balance directly influences emotional and physical well-being."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why are there no major ancient biblical holidays in Iyar?",
+          "answer": "Iyar serves as a dedicated transition bridge between Passover liberation and Shavuot revelation, focusing entirely on personal inner growth."
+        }
+      ],
+      "relatedTopics": ["Lag BaOmer", "Pesach Sheni", "Sefirat HaOmer"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does the acronym of Iyar signify for healthcare providers?"
+      ]
+    },
+    {
+      "id": "month-sivan",
+      "title": "Chodesh Sivan: Month of Torah Revelation & Harvest Unity",
+      "hebrewTitle": "חֹדֶשׁ סִיוָן - זְמַן מַתַּן תּוֹרָתֵנוּ",
+      "category": "CALENDAR_FACT",
+      "citation": "Exodus 19:1; Shabbat 86a",
+      "tags": ["sivan", "month", "shavuot", "torah", "sinai", "bikkurim", "unity"],
+      "overview": "Sivan is the third biblical month, associated with the constellation Gemini (the Twins), symbolizing the inseparable bond between God and Israel or between the Written and Oral Torah. On the 6th of Sivan, we celebrate Shavuot, commemorating God giving the Ten Commandments at Mount Sinai.",
+      "historicalBackground": "On the 1st of Sivan, the Israelites camped at the foot of Mount Sinai 'as one person with one heart' (K'ish echad b'lev echad), achieving complete national unity prior to receiving revelation.",
+      "torahSources": [
+        "Exodus 19:1-2: 'In the third month after the children of Israel were gone forth out of the land of Egypt... and there Israel encamped before the mount.'"
+      ],
+      "classicalCommentary": "Rashi notes that the singular verb form 'Vayichan' (and he camped) demonstrates that internal harmony is the absolute prerequisite for divine revelation.",
+      "bneiMenashePerspective": "In Bnei Menashe synagogues, Sivan is celebrated by decorating sanctuaries with fragrant flowers and branches, welcoming new community members who have completed formal conversion rites.",
+      "practicalLessons": [
+        "Power of Unity: Collective intellectual and spiritual breakthroughs occur when communities abandon ego and stand together."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the significance of the Gemini zodiac sign for Sivan?",
+          "answer": "It reflects twinship—teaching that love of God and love of fellow human beings must always walk hand in hand."
+        }
+      ],
+      "relatedTopics": ["Shavuot Festival", "Ten Commandments", "Bikkurim Offerings"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why did the Israelites camp at Sinai 'as one man with one heart'?"
+      ]
+    },
+    {
+      "id": "month-tammuz",
+      "title": "Chodesh Tammuz: Summer Reflection & Beginning of Introspection",
+      "hebrewTitle": "חֹדֶשׁ תַּמּוּז - בֵּין הַמְּצָרִים",
+      "category": "CALENDAR_FACT",
+      "citation": "Zechariah 8:19; Megillat Taanit",
+      "tags": ["tammuz", "month", "summer", "17 tammuz", "three weeks", "calendar"],
+      "overview": "Tammuz is the fourth month of the biblical calendar. It marks the height of summer solar heat and initiates the three-week period of communal mourning (Bein HaMezarim) beginning on the 17th of Tammuz when the walls of Jerusalem were breached by Roman legions.",
+      "historicalBackground": "On the 17th of Tammuz, Moses shattered the first stone tablets upon descending Mount Sinai and seeing the Golden Calf.",
+      "torahSources": [
+        "Exodus 32:19: 'And it came to pass, as soon as he came near unto the camp, that he saw the calf... and Moses' anger burned, and he cast the tables out of his hands.'"
+      ],
+      "classicalCommentary": "Chassidic masters teach that the word Tammuz relates to heat and fire; during challenging times, we must redirect fiery passions toward Torah study and community building.",
+      "bneiMenashePerspective": "During Tammuz, Bnei Menashe centers organize educational seminars focusing on Jewish history and Aliyah preparation.",
+      "practicalLessons": [
+        "Emotional Control: Avoid hasty reactions; Moses shattered the tablets due to the people's impetuous miscalculation of time."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is the month named after an ancient Babylonian word?",
+          "answer": "The Jerusalem Talmud explains that returning exiles brought Babylonian month names back with them from Babylon as a reminder of divine redemption from exile."
+        }
+      ],
+      "relatedTopics": ["Shiv'ah Asar B'Tammuz", "The Three Weeks", "Chodesh Av"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What customs apply during the Three Weeks starting in Tammuz?"
+      ]
+    },
+    {
+      "id": "month-av",
+      "title": "Chodesh Av (Menachem Av): From Deep Mourning to Consolation",
+      "hebrewTitle": "חֹדֶשׁ מְנַחֵם אָב - מֵאֵבֶל לְנֶחָמָה",
+      "category": "CALENDAR_FACT",
+      "citation": "Mishnah Ta'anit 4:6; Baba Batra 121a",
+      "tags": ["av", "menachem av", "tisha bav", "tu bav", "mourning", "comfort", "summer"],
+      "overview": "Av is the fifth biblical month, commonly called 'Menachem Av' (Comforting Father). The month experiences extreme emotional contrast: the first nine days mark our deepest national mourning over the destruction of both Temples on Tisha B'Av, while the 15th of Av (Tu B'Av) blossoms into one of the most joyous festivals of love and reconciliation.",
+      "historicalBackground": "Following the destruction of the First and Second Temples on the 9th of Av, prophets promised that God, our comforting Father, would turn these days of weeping into future festivals of joy.",
+      "torahSources": [
+        "Jeremiah 31:12: 'Then shall the virgin rejoice in the dance... for I will turn their mourning into joy, and will comfort them.'"
+      ],
+      "classicalCommentary": "Talmud Ta'anit (26b) states: 'When Av enters, we reduce our joy.' Yet when Tu B'Av arrives, joy returns fully, demonstrating that sorrow is temporary while divine love is eternal.",
+      "bneiMenashePerspective": "After fasting on Tisha B'Av, Bnei Menashe congregations celebrate Tu B'Av with musical matchmaking events supporting young couples establishing new homes in Israel.",
+      "practicalLessons": [
+        "Resilience: Never allow historical trauma to prevent future hope and joy."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do we add the name 'Menachem' to Av?",
+          "answer": "To invoke divine mercy and comfort upon Jerusalem during the month of historical sorrow."
+        }
+      ],
+      "relatedTopics": ["Tisha B'Av Fast", "Tu B'Av Festival", "Seven Weeks of Consolation"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What dietary restrictions apply during the Nine Days of Av?"
+      ]
+    },
+    {
+      "id": "month-elul",
+      "title": "Chodesh Elul: Month of Mercy, Introspection & The King in the Field",
+      "hebrewTitle": "חֹדֶשׁ אֱלוּל - אֲנִי לְדוֹדִי וְדוֹדִי לִי",
+      "category": "CALENDAR_FACT",
+      "citation": "Song of Songs 6:3; Shulchan Aruch O.C. 581",
+      "tags": ["elul", "mercy", "teshuvah", "shofar", "selichot", "king in the field", "forgiveness"],
+      "overview": "Elul is the sixth biblical month, serving as a dedicated 30-day runway of preparation for the High Holy Days. The letters E-L-U-L form the acronym 'Ani L'Dodi V'Dodi Li' (I am my Beloved's and my Beloved is mine). Customs include blowing the Shofar every morning after Shacharit, reciting Psalm 27, checking Mezuzot and Tefillin, and attending midnight Selichot prayers.",
+      "historicalBackground": "During Elul, Moses ascended Mount Sinai for the third time for forty days, receiving God's attributes of mercy following the Golden Calf.",
+      "torahSources": [
+        "Song of Songs 6:3: 'I am my beloved's, and my beloved is mine; who feeds his flock among the lilies.'"
+      ],
+      "classicalCommentary": "Rabbi Schneur Zalman of Liadi compares Elul to a royal monarch leaving his guarded palace to visit the countryside ('The King is in the field'), greeting every citizen with a smiling countenance and accepting all requests.",
+      "bneiMenashePerspective": "In Churachandpur and Nof HaGalil, Elul mornings echo with daily Shofar blasts. Community members exchange greeting cards writing 'Ketivah V'Chatimah Tovah' (May you be inscribed and sealed for good).",
+      "practicalLessons": [
+        "Proactive Love: Reconnect with friends and seek forgiveness before judgment days arrive."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "When do Sefardi communities begin reciting Selichot?",
+          "answer": "Sefardi communities—and Bnei Menashe—begin reciting Selichot penitential prayers on the very first day of Rosh Chodesh Elul."
+        }
+      ],
+      "relatedTopics": ["Rosh Hashanah", "Selichot Prayers", "Laws of Teshuvah"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why do we blow the Shofar every morning during Elul?"
+      ]
+    },
+    {
+      "id": "month-tishrei",
+      "title": "Chodesh Tishrei: Month of Majesty, Judgment & Supreme Celebration",
+      "hebrewTitle": "חֹדֶשׁ תִּשְׁרֵי - יֶרַח הָאֵיתָנִים",
+      "category": "CALENDAR_FACT",
+      "citation": "I Kings 8:2; Leviticus 23:24-43",
+      "tags": ["tishrei", "rosh hashanah", "yom kippur", "sukkot", "simchat torah", "majesty", "holidays"],
+      "overview": "Tishrei is the seventh biblical month, historically called 'Yerach HaEitanim' (Month of the Strong/Patriarchs). Although seventh from Nisan, it marks the beginning of the civil year and contains more holy days than any other month: Rosh Hashanah, Yom Kippur, Sukkot, Shemini Atzeret, and Simchat Torah.",
+      "historicalBackground": "According to Rabbi Eliezer in the Talmud, Adam and Eve were created on the 1st of Tishrei, making it the birthday of human consciousness.",
+      "torahSources": [
+        "I Kings 8:2: 'And all the men of Israel assembled themselves unto King Solomon at the feast, in the month Ethanim, which is the seventh month.'"
+      ],
+      "classicalCommentary": "Vilna Gaon teaches that the progression of Tishrei moves from awe and judgment on Rosh Hashanah to purification on Yom Kippur, culminating in pure uninhibited joy on Sukkot.",
+      "bneiMenashePerspective": "Tishrei is the busiest and most spiritual season in Bnei Menashe synagogues, bringing the entire community together for daily banquets, Sukkah building, and dancing.",
+      "practicalLessons": [
+        "Balance of Awe and Joy: True spiritual health balances reverence before God with ecstatic celebration of life."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is Tishrei called the seventh month if Rosh Hashanah is New Year's Day?",
+          "answer": "Biblical months are numbered starting from Nisan (the month of the Exodus), while calendar years increment on the 1st of Tishrei."
+        }
+      ],
+      "relatedTopics": ["High Holy Days", "Sukkot Festival", "Simchat Torah"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does the title 'Yerach HaEitanim' signify?"
+      ]
+    },
+    {
+      "id": "month-cheshvan",
+      "title": "Chodesh Marcheshvan: Month of Rain, Quiet Growth & Dedication",
+      "hebrewTitle": "חֹדֶשׁ מַרְחֶשְׁבָן - זְמַן גִּשְׁמֵי בְּרָכָה",
+      "category": "CALENDAR_FACT",
+      "citation": "I Kings 6:38; Ta'anit 6a",
+      "tags": ["cheshvan", "marcheshvan", "rain", "autumn", "noach", "solomon temple"],
+      "overview": "Cheshvan (formally Marcheshvan - 'Eighth Month') follows Tishrei. It is famously noted as the only month without any holidays or fast days, earning the colloquial nickname 'Mar' (bitter). However, spiritual masters explain 'Mar' means a drop of water, as this month welcomes blessed winter rains in Israel. On the 7th of Cheshvan, individuals in Israel begin reciting the prayer for rain ('V'ten tal u'matar').",
+      "historicalBackground": "In Cheshvan, Noah's flood began and ended one year later, and King Solomon completed building the First Temple in Jerusalem.",
+      "torahSources": [
+        "I Kings 6:38: 'And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof.'"
+      ],
+      "classicalCommentary": "Midrash states that because Solomon's Temple was finished in Cheshvan but dedicated in Tishrei, God reserved Cheshvan for the future dedication of the Third Temple.",
+      "bneiMenashePerspective": "After intense holiday weeks, Cheshvan allows Bnei Menashe families in northern Israel to settle back into consistent work routines, school studies, and Hebrew Ulpan courses.",
+      "practicalLessons": [
+        "Value of Routine: Spiritual growth occurs not only during dramatic holidays but during quiet, consistent daily discipline."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do Jews outside Israel wait until December 4/5 to request rain in prayer?",
+          "answer": "To accommodate Babylonian pilgrims returning home from Jerusalem after Sukkot who needed sixty days of dry roads before winter storms began."
+        }
+      ],
+      "relatedTopics": ["Prayer for Rain (Geshem)", "Story of Noah's Flood", "Building the First Temple"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does the biblical name 'Month of Bul' mean?"
+      ]
+    },
+    {
+      "id": "month-kislev",
+      "title": "Chodesh Kislev: Month of Miracles, Light & Winter Illumination",
+      "hebrewTitle": "חֹדֶשׁ כִּסְלֵו - חֹדֶשׁ הָאוֹר וְהַנִּסִּים",
+      "category": "CALENDAR_FACT",
+      "citation": "Zechariah 7:1; Haggai 2:18",
+      "tags": ["kislev", "hanukkah", "light", "miracles", "winter", "menorah"],
+      "overview": "Kislev is the ninth biblical month, marking the darkest and coldest nights of early winter. On the 25th of Kislev, we light the Hanukkah Menorah, transforming physical darkness into spiritual warmth and celebrating miraculous deliverance.",
+      "historicalBackground": "In Kislev, the Prophet Haggai encouraged returning exiles laying the foundation stones of the Second Temple, promising divine blessing.",
+      "torahSources": [
+        "Haggai 2:18-19: 'Consider, I pray you, from this day and forward, from the four and twentieth day of the ninth month (Kislev)... from this day will I bless you.'"
+      ],
+      "classicalCommentary": "Chassidic philosophy notes that Kislev relates to 'Kesel' (trust/security), teaching that when winter darkness sets in, trust in God illuminates our homes.",
+      "bneiMenashePerspective": "Lighting Menorah lamps in Kislev windows brings warmth to Bnei Menashe homes, celebrating how faith survived centuries of isolation.",
+      "practicalLessons": [
+        "Illuminating Darkness: Do not fight darkness with complaints; light a candle of kindness."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Can Kislev have either 29 or 30 days?",
+          "answer": "Yes, Kislev is a 'flexible' month in the Hebrew calendar algorithm, adjusting between 29 and 30 days to keep leap years synchronized."
+        }
+      ],
+      "relatedTopics": ["Hanukkah Festival", "Laws of Menorah Lighting", "Second Temple Foundation"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why is Kislev associated with the attribute of trust?"
+      ]
+    },
+    {
+      "id": "month-tevet",
+      "title": "Chodesh Tevet: Surviving the Winter Siege & Strengthening Torah",
+      "hebrewTitle": "חֹדֶשׁ טֵבֵת - שְׁמִירַת הַגַּחֶלֶת",
+      "category": "CALENDAR_FACT",
+      "citation": "Esther 2:16; II Kings 25:1",
+      "tags": ["tevet", "asara btevet", "winter", "esther", "siege"],
+      "overview": "Tevet is the tenth biblical month, corresponding to deep winter. The final days of Hanukkah extend into the beginning of Tevet, while the 10th of Tevet marks the solemn fast commemorating the Babylonian siege of Jerusalem.",
+      "historicalBackground": "In Tevet, Esther was chosen as Queen of Persia, placing her in royal position just in time to thwart Haman's future plot.",
+      "torahSources": [
+        "Esther 2:16: 'So Esther was taken unto King Ahashverosh into his house royal in the tenth month, which is the month Tevet...'"
+      ],
+      "classicalCommentary": "Scholars explain that although Tevet represents historical siege and winter cold, Queen Esther's coronation during this month proves God plants seeds of future salvation before trouble begins.",
+      "bneiMenashePerspective": "In winter months in northern Israel, Bnei Menashe youth centers gather for intensive evening Torah study programs.",
+      "practicalLessons": [
+        "Hidden Preparedness: God coordinates events far in advance to safeguard community survival."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do the last days of Hanukkah fall in Tevet?",
+          "answer": "Because Hanukkah begins on the 25th of Kislev and lasts eight days, it always bridges across Rosh Chodesh Tevet."
+        }
+      ],
+      "relatedTopics": ["Asara B'Tevet Fast", "Queen Esther", "Hanukkah Conclusion"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does the name Tevet signify in ancient Aramaic?"
+      ]
+    },
+    {
+      "id": "month-shevat",
+      "title": "Chodesh Shevat: New Life Under Winter Snow & Tree Renewal",
+      "hebrewTitle": "חֹדֶשׁ שְׁבָט - רֹאשׁ הַשָּׁנָה לָאִילָנוֹת",
+      "category": "CALENDAR_FACT",
+      "citation": "Deuteronomy 1:3; Zechariah 1:7",
+      "tags": ["shevat", "tu bishvat", "trees", "moses", "deuteronomy", "winter"],
+      "overview": "Shevat is the eleventh biblical month. On the 1st of Shevat, Moses began delivering his 37-day farewell address to Israel (the Book of Deuteronomy) and translating the Torah into seventy languages. On the 15th of Shevat (Tu BiShvat), almond trees begin blooming in Israel, marking the New Year for Trees.",
+      "historicalBackground": "Moses chose Shevat to explain the Torah in all languages so that future dispersed exiles would always have access to divine wisdom.",
+      "torahSources": [
+        "Deuteronomy 1:3: 'And it came to pass in the fortieth year, in the eleventh month (Shevat), on the first day of the month, that Moses spoke unto the children of Israel...'"
+      ],
+      "classicalCommentary": "Sfat Emet notes that although sap begins rising silently inside tree trunks during Shevat while branches look bare outside, inner spiritual growth happens long before external results become visible.",
+      "bneiMenashePerspective": "Tu BiShvat tree planting drives in Israel hold special meaning for Bnei Menashe immigrants taking physical root in the soil of their ancestral homeland.",
+      "practicalLessons": [
+        "Patience with Growth: Don't judge progress by surface appearances alone; internal roots are strengthening silently."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why did Moses translate the Torah into seventy languages on 1st of Shevat?",
+          "answer": "To establish that Torah wisdom is accessible to every tribe and culture across global history."
+        }
+      ],
+      "relatedTopics": ["Tu BiShvat Seder", "Book of Deuteronomy", "Agricultural Tithing"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Which tree blossoms earliest in the Land of Israel during Shevat?"
+      ]
+    },
+    {
+      "id": "month-adar-aleph",
+      "title": "Chodesh Adar Aleph: The First Adar in a Hebrew Leap Year",
+      "hebrewTitle": "חֹדֶשׁ אֲדָר א' - שְׁנַת עִבּוּר",
+      "category": "CALENDAR_FACT",
+      "citation": "Mishnah Megillah 1:4; Sanhedrin 12a",
+      "tags": ["adar aleph", "leap year", "calendar", "joy", "shanah meuberet", "intercalation"],
+      "overview": "Adar Aleph is the supplementary thirteenth month added seven times every nineteen years in the Hebrew lunisolar calendar leap cycle (Shanah Me'uberet - Pregnant Year). Because lunar years are ~11 days shorter than solar years, adding Adar Aleph ensures Passover always occurs in the spring month of Aviv.",
+      "historicalBackground": "In Sanhedrin courts in Jerusalem, judges calculated agricultural ripeness of barley and equinox angles before declaring an intercalated leap year.",
+      "torahSources": [
+        "Deuteronomy 16:1: 'Observe the month of Aviv (spring), and keep the Passover unto the Lord your God.'"
+      ],
+      "classicalCommentary": "Mishnah Megillah (1:4) rules that when there are two Adars, Purim is celebrated in the second Adar (Adar Bet) so that the redemption of Purim connects directly to the redemption of Passover in Nisan.",
+      "bneiMenashePerspective": "Understanding Hebrew leap year mechanics fascinates Bnei Menashe students studying astronomical Zmanim calculations on the platform.",
+      "practicalLessons": [
+        "Harmonizing Earth and Sky: The leap year teaches us to synchronize heavenly spiritual ideals (lunar cycle) with practical earthly realities (solar seasons)."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is Purim Katan?",
+          "answer": "The 14th of Adar Aleph in a leap year, observed with increased joy and omitting fasting or Tachanun prayers."
+        }
+      ],
+      "relatedTopics": ["Hebrew Lunisolar Calendar Algorithm", "Adar Bet", "Purim Katan"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "How many leap years occur within every 19-year Metonic cycle?"
+      ]
+    },
+    {
+      "id": "month-adar-bet",
+      "title": "Chodesh Adar (Adar Bet): Month of Supreme Joy & Deliverance",
+      "hebrewTitle": "חֹדֶשׁ אֲדָר - מִשֶּׁנִּכְנַס אֲדָר מַרְבִּין בְּשִׂמְחָה",
+      "category": "CALENDAR_FACT",
+      "citation": "Ta'anit 29a; Megillat Esther 9:1",
+      "tags": ["adar", "adar bet", "purim", "joy", "esther", "mordechai", "deliverance"],
+      "overview": "Adar (or Adar Bet in a leap year) is the final month of the biblical year. The Talmud proclaims: 'Mi'shenichnas Adar marbin b'simcha' (When Adar enters, we increase in joy!). On the 14th of Adar, we celebrate Purim, rejoicing how Haman's wicked decree was overturned.",
+      "historicalBackground": "On the 7th of Adar, Moses was born and passed away 120 years later. Haman cast lots (Purim) rejoicing when it fell in Adar thinking Moses' death was a bad omen for Israel, unaware Moses was also born in Adar.",
+      "torahSources": [
+        "Esther 9:1: 'In the twelfth month, which is the month Adar... on the day that the enemies of the Jews hoped to have rule over them; whereas it was turned to the contrary, that the Jews had rule over them that hated them.'"
+      ],
+      "classicalCommentary": "Chassidic commentary explains that Adar joy is so powerful it elevates all sadness of previous months, transforming curses into blessings.",
+      "bneiMenashePerspective": "Adar brings exuberant costumed celebrations across all Bnei Menashe synagogues, sharing charitable packages with neighbors.",
+      "practicalLessons": [
+        "Unshakeable Optimism: True faith maintains joy because we know God can turn any negative situation upside down in a single moment."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is the 7th of Adar observed as a memorial day for burial societies (Chevra Kadisha)?",
+          "answer": "Because God Himself tended to Moses' burial on the 7th of Adar, burial society volunteers fast and pray on this day honoring selfless service."
+        }
+      ],
+      "relatedTopics": ["Purim Festival", "Ta'anit Esther", "Life of Moses"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What does the famous dictum 'When Adar enters we increase joy' teach us?"
+      ]
+    }
+  ]
+}

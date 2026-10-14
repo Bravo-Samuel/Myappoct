@@ -1,0 +1,123 @@
+{
+  "topicGroup": "Hebrew Language",
+  "description": "Structured 4-level pedagogical curriculum for mastering classical biblical Hebrew, liturgical vocabulary, root architecture (Shoresh), and modern conversational grammar.",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "hebrew-level-1-alef-bet",
+      "title": "Level 1: The Alef-Bet & Vowel System (Nikud)",
+      "hebrewTitle": "רָמָה 1: אָלֶף-בֵּית וְנִקּוּד",
+      "category": "HEBREW_LANGUAGE",
+      "citation": "Sefer Yetzirah; Shabbat 104a",
+      "tags": ["alef bet", "alphabet", "nikud", "vowels", "grammar", "level 1", "reading"],
+      "overview": "Level 1 introduces the 22 consonant letters of the Hebrew alphabet (Alef-Bet), five of which change shape when positioned at the end of a word (Sofit letters: Mem, Nun, Tzadi, Pe, Kaf). Because Hebrew is written from right to left without native written vowel letters, beginners learn the diacritical vowel dots and dashes (Nikud) placed beneath or above consonants (e.g., Kamatz, Patach, Tzere, Segol, Chiriq, Holam, Shuruk).",
+      "historicalBackground": "According to kabbalistic tradition in Sefer Yetzirah, the 22 letters are the foundational building blocks God used to create the physical universe.",
+      "torahSources": [
+        "Zephaniah 3:9: 'For then will I turn to the peoples a pure language (Sefat Berurah), that they may all call upon the name of the Lord...'"
+      ],
+      "classicalCommentary": "Talmud Shabbat (104a) notes that the letters Alef and Bet form the words 'Alef Binah'—Learn Wisdom! Teaching children the alphabet is considered lighting a candle of wisdom.",
+      "bneiMenashePerspective": "In adult literacy Ulpan classes in Churachandpur and Nof HaGalil, elders master Alef-Bet phonetics alongside young grandchildren using phonetic flashcards.",
+      "practicalLessons": [
+        "Foundational Precision: Take time to master exact pronunciation before rushing into speed reading."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why is Hebrew read from right to left?",
+          "answer": "Ancient stone engravers held their chisel in the left hand and mallet in the right, naturally driving inscriptions from right to left across stone tablets."
+        }
+      ],
+      "relatedTopics": ["Level 2: The Three-Letter Root System", "Liturgical Pronunciation"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Which five letters have special final forms at the end of words?"
+      ]
+    },
+    {
+      "id": "hebrew-level-2-shoresh",
+      "title": "Level 2: The Three-Letter Root System (Shoresh) & Pronouns",
+      "hebrewTitle": "רָמָה 2: מַעֲרֶכֶת הַשֹּׁרֶשׁ (שׁוֹרֵשׁ) וְכִנּוּיִים",
+      "category": "HEBREW_LANGUAGE",
+      "citation": "Ibn Janah Sefer HaShorashim",
+      "tags": ["shoresh", "root", "grammar", "verbs", "pronouns", "level 2", "morphology"],
+      "overview": "Level 2 unlocks the architectural genius of Hebrew: the three-consonant root system (Shoresh). Virtually every Hebrew verb and noun is built around three core consonants. By adding standardized prefixes, suffixes, and internal vowel changes across seven verb forms (Binyanim), thousands of related words emerge from a single concept. For example, root K-T-V generates KaTaV (he wrote), K'ToV! (write!), KetiVah (writing), and MichTaV (letter).",
+      "historicalBackground": "Grammarians like Judah Chayyuj in 10th-century Spain codified the three-letter root structure, revolutionizing biblical translation and dictionary design.",
+      "torahSources": [
+        "Genesis 2:19: 'And whatsoever the man called every living creature, that was the name thereof (Reflecting its inner essence and root).'"
+      ],
+      "classicalCommentary": "Radak emphasizes that recognizing root letters allows even a beginner to deduce the meaning of unfamiliar biblical verses independently.",
+      "bneiMenashePerspective": "Understanding root morphology helps Bnei Menashe students connect modern Israeli street terminology directly to ancient Torah vocabulary.",
+      "practicalLessons": [
+        "Logical Structure: Hebrew teaches us to look beneath surface variations to find the common underlying foundation."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What are the seven major verb conjugation building patterns (Binyanim)?",
+          "answer": "Pa'al (simple active), Nif'al (simple passive), Pi'el (intensive active), Pu'al (intensive passive), Hif'il (causative active), Huf'al (causative passive), and Hitpa'el (reflexive)."
+        }
+      ],
+      "relatedTopics": ["Level 1: The Alef-Bet", "Level 3: Liturgical Vocabulary"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "How does the root Sh-L-M generate words for peace, payment, and wholeness?"
+      ]
+    },
+    {
+      "id": "hebrew-level-3-liturgical",
+      "title": "Level 3: Essential Synagogue Liturgy & Prayer Vocabulary",
+      "hebrewTitle": "רָמָה 3: אוֹצַר מִלִּים לַתְּפִלָּה וּלְבֵית הַכְּנֶסֶת",
+      "category": "HEBREW_LANGUAGE",
+      "citation": "Siddur Edot HaMizrach Glossary",
+      "tags": ["liturgy", "siddur", "prayer", "vocabulary", "synagogue", "level 3", "blessings"],
+      "overview": "Level 3 equips students with high-frequency vocabulary necessary to navigate the Hebrew prayer book (Siddur) with emotional comprehension rather than rote recitation. Key terms include Baruch (Blessed/Source of blessing), Kadosh (Holy/Set apart), Melech (King/Sovereign), Olam (World/Eternity), Rachamim (Compassion), Teshuvah (Return/Repentance), and Shalom (Peace/Wholeness).",
+      "historicalBackground": "Following the destruction of the Temple, Ezra the Scribe and the Men of the Great Assembly formulated standardized prayers in clear classical Hebrew so returning exiles could unite in worship.",
+      "torahSources": [
+        "Psalms 19:15: 'Let the words of my mouth and the meditation of my heart be acceptable before You, O Lord, my Rock and my Redeemer.'"
+      ],
+      "classicalCommentary": "Rabbi Judah HaChasid notes that prayer formulas contain precise word counts matching celestial structures; understanding each word unlocks deeper spiritual gates.",
+      "bneiMenashePerspective": "Mastering Level 3 allows Bnei Menashe congregants to lead public Shacharit and Mincha prayers confidently in Sefardi pronunciation across Israeli synagogues.",
+      "practicalLessons": [
+        "Conscious Worship: Never let prayer become a mechanical race; pause to savor the literal meaning of every word."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is the literal translation of the opening phrase 'Baruch Atah Adonai'?",
+          "answer": "'Blessed/Abundant fountain of life are You, O Eternal Lord'—acknowledging God as the infinite source of all existence."
+        }
+      ],
+      "relatedTopics": ["Level 2: Root System", "Structure of the Amidah"],
+      "difficultyLevel": "Intermediate",
+      "suggestedFollowUpQuestions": [
+        "What does the liturgical word 'Selah' signify at the end of Psalms?"
+      ]
+    },
+    {
+      "id": "hebrew-level-4-modern-aliyah",
+      "title": "Level 4: Conversational Modern Hebrew for Aliyah & Daily Life",
+      "hebrewTitle": "רָמָה 4: עִבְרִית מְדֻבֶּרֶת לְעוֹלִים חֲדָשִׁים",
+      "category": "HEBREW_LANGUAGE",
+      "citation": "Ministry of Education Ulpan Level Alef/Bet Syllabus",
+      "tags": ["modern hebrew", "aliyah", "ulpan", "conversation", "level 4", "vocabulary", "daily life"],
+      "overview": "Level 4 bridges classical biblical Hebrew into lively Modern Hebrew (Ivrit Meduberet) spoken across contemporary Israel. Students master practical situational dialogues: shopping in the Shuk (market), taking public buses and trains, scheduling medical appointments at the Kupat Cholim, navigating bank transactions, and informal slang (e.g., Sababa, Tachles, Yallah).",
+      "historicalBackground": "Revived in the late 19th century by Eliezer Ben-Yehuda, Hebrew transformed from a sacred text language into a vibrant, living mother tongue spoken by millions.",
+      "torahSources": [
+        "Jeremiah 31:22: 'Thus says the Lord of hosts... As yet again shall they use this speech in the land of Judah and in the cities thereof...'"
+      ],
+      "classicalCommentary": "Ben-Yehuda famously declared: 'Rak Ivrit!' (Only Hebrew!)—believing national rebirth required a shared daily spoken language uniting immigrants from over seventy nations.",
+      "bneiMenashePerspective": "Mastering Level 4 in intensive Ulpan classes empowers Bnei Menashe youth and parents to thrive independently in Israeli universities, workplaces, and social circles.",
+      "practicalLessons": [
+        "Courage to Speak: Don't fear grammar mistakes; native speakers warmly encourage immigrants who try speaking Hebrew."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How different is Modern Hebrew from Biblical Hebrew?",
+          "answer": "Remarkably close! A modern Israeli child can pick up the 3,000-year-old Book of Exodus and read it directly with over 80% immediate comprehension."
+        }
+      ],
+      "relatedTopics": ["Level 1: Alef-Bet", "Integration into Israeli Society"],
+      "difficultyLevel": "Advanced",
+      "suggestedFollowUpQuestions": [
+        "What are essential polite greetings used in morning Israeli workplaces?"
+      ]
+    }
+  ]
+}

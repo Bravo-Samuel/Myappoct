@@ -1,0 +1,245 @@
+{
+  "topicGroup": "Jewish Customs",
+  "description": "Comprehensive production guide to core Jewish household practices, dietary holiness, table liturgy, ritual cleanliness, and life-cycle ethical traditions (Minhagim).",
+  "version": "2.0.0",
+  "items": [
+    {
+      "id": "custom-kashrut-separation",
+      "title": "Kashrut: Separation of Meat and Dairy & Kitchen Holiness",
+      "hebrewTitle": "כַּשְׁרוּת - הַפְרָדַת בָּשָׂר וְחָלָב",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Exodus 23:19; Shulchan Aruch Yoreh Deah 87-89",
+      "tags": ["kashrut", "kosher", "meat", "dairy", "waiting", "kitchen", "utensils", "halacha", "custom"],
+      "overview": "Kashrut laws elevate daily nutrition into a spiritual practice. A core pillar is the strict separation of meat (Basari) and dairy (Halavi) products. This requires dedicated cookware, serving dishes, silverware, and sink sponges for meat and dairy separately, as well as observing waiting intervals after consuming meat before ingesting dairy.",
+      "historicalBackground": "Derived from the threefold biblical prohibition against cooking a kid in its mother's milk, rabbinic authorities established fences around the law to preserve holiness in Jewish homes.",
+      "torahSources": [
+        "Exodus 23:19: 'You shall not boil a kid in its mother's milk.'",
+        "Leviticus 11:44: 'For I am the Lord your God; sanctify yourselves therefore, and be holy; for I am holy.'"
+      ],
+      "classicalCommentary": "Rambam writes that dietary laws discipline human appetite and instill mindfulness. Following Sefardi Halacha (codified by Maran Yosef Karo in Shulchan Aruch), Bnei Menashe communities observe a full six-hour waiting period after consuming meat before eating dairy.",
+      "bneiMenashePerspective": "When Bnei Menashe congregations established communal kitchens in Manipur, Mizoram, and Israel, elders meticulously instituted color-coded cookware systems (typically red for meat, blue for dairy) to ensure pristine Kashrut standards.",
+      "practicalLessons": [
+        "Mindful Consumption: Before eating, pause to verify ingredients and recite blessings, transforming a physical act into spiritual worship.",
+        "Discipline and Self-Control: Dietary boundaries train the soul in emotional moderation and self-restraint."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is Pareve food?",
+          "answer": "Neutral foods—such as fresh fruits, vegetables, grains, eggs, and kosher fish—that contain neither meat nor dairy ingredients and may be eaten with either."
+        }
+      ],
+      "relatedTopics": ["Kosher Slaughter (Shechita)", "Reciting Blessings Before Meals", "Kashering Utensils"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What blessing is recited before eating fruit or bread?",
+        "How should one proceed if dairy accidentally spills into a hot meat pot?"
+      ]
+    },
+    {
+      "id": "custom-mezuzah-home",
+      "title": "Mezuzah: Sanctifying the Doorposts of the Jewish Home",
+      "hebrewTitle": "מְזוּזָה - שְׁמִירַת הַבַּיִת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Deuteronomy 6:9, 11:20; Shulchan Aruch Yoreh Deah 285",
+      "tags": ["mezuzah", "doorpost", "shema", "parchment", "scroll", "home", "blessing", "protection"],
+      "overview": "A Mezuzah is a handwritten parchment scroll containing the first two paragraphs of the Shema (Deuteronomy 6:4-9 and 11:13-21) written by a certified scribe (Sofer) on kosher hide. It is affixed to the upper third of the right doorpost of living spaces, facing inward diagonally (in Sefardi custom, often positioned vertically depending on regional Minhag).",
+      "historicalBackground": "Affixing a Mezuzah fulfills God's direct command to write divine words upon doorposts, declaring that the home is dedicated to Torah values and divine peace.",
+      "torahSources": [
+        "Deuteronomy 6:9: 'And you shall write them upon the doorposts of your house, and upon your gates.'"
+      ],
+      "classicalCommentary": "Zohar teaches that while human monarchs sit inside protected by guards outside, God protects Jewish households from outside while the family resides peacefully inside.",
+      "bneiMenashePerspective": "When moving into new apartments during Aliyah absorption in Nof HaGalil or Kiryat Arba, affixing the Mezuzah with family and friends is one of the most emotional and celebratory milestones for Bnei Menashe immigrants.",
+      "practicalLessons": [
+        "Sanctuary of Peace: The home should serve as a moral sanctuary where kindness, hospitality, and respect reign supreme."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How often must Mezuzah scrolls be inspected?",
+          "answer": "Halacha recommends professional inspection by a certified scribe twice every seven years to ensure humidity or aging hasn't cracked any ink letters."
+        }
+      ],
+      "relatedTopics": ["Shema Yisrael Prayer", "Laws of Sefardi Scribes", "Dedication of the Home (Chanukat HaBayit)"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What exact blessing is recited when affixing a new Mezuzah?",
+        "Which rooms in a house require a Mezuzah scroll?"
+      ]
+    },
+    {
+      "id": "custom-shabbat-table-kiddush",
+      "title": "Shabbat Table Customs: Kiddush, Lechem Mishneh & Zemirot",
+      "hebrewTitle": "שֻׁלְחַן שַׁבָּת - קִדּוּשׁ, לֶחֶם מִשְׁנֶה וּזְמִירוֹת",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Exodus 20:8; Shabbat 117b; Shulchan Aruch O.C. 271-274",
+      "tags": ["shabbat", "kiddush", "challah", "lechem mishneh", "zemirot", "table", "wine", "custom"],
+      "overview": "The Friday night Shabbat table is transformed into an altar of fellowship. Practices include singing Shalom Aleichem to welcome Sabbath angels, blessing children, reciting Kiddush over a cup of kosher wine/grape juice, washing hands for bread, breaking two braided loaves of Challah (Lechem Mishneh dipped in salt), and singing traditional table hymns (Zemirot).",
+      "historicalBackground": "Lechem Mishneh (Two Loaves) commemorates the double portion of manna that fell every Friday in the Sinai desert so Israelites would not need to gather food on Shabbat.",
+      "torahSources": [
+        "Exodus 16:22: 'And it came to pass, that on the sixth day they gathered twice as much bread, two omers for each one...'",
+        "Exodus 20:8: 'Remember the Sabbath day, to keep it holy (Remember it over wine).'"
+      ],
+      "classicalCommentary": "Talmud Shabbat (119b) relates that when a person returns from synagogue on Friday night to find candles lit, table set, and bed made, good angels exclaim: 'May it be God's will that next Sabbath be likewise!'",
+      "bneiMenashePerspective": "Shabbat tables in Churachandpur and northern Israel blend ancient Hebrew Zemirot with traditional Mizo and Kuki tribal harmonies, serving Sabbath curries alongside freshly baked Challah.",
+      "practicalLessons": [
+        "Family Bonding: Unplugging from electronic devices once a week around a set dinner table fosters unshakeable family unity."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Why do we cover the Challah loaves under a decorative cloth during Kiddush?",
+          "answer": "To preserve the 'dignity' of the bread so it is not embarrassed while wine takes precedence for the opening blessing, teaching sensitivity to the feelings of others."
+        }
+      ],
+      "relatedTopics": ["Shabbat Candle Lighting", "Birkat HaMazon", "Laws of Kiddush"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What blessing do parents give their children on Friday night?"
+      ]
+    },
+    {
+      "id": "custom-taharat-hamishpacha",
+      "title": "Taharat HaMishpacha: Family Purity & Sanctity of the Mikvah",
+      "hebrewTitle": "טָהֳרַת הַמִּשְׁפָּחָה - קְדֻשַּׁת הַמִּקְוֶה",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Leviticus 15:19-24; Niddah Bavli; Shulchan Aruch Yoreh Deah 183-200",
+      "tags": ["taharat hamishpacha", "mikvah", "family purity", "marriage", "modesty", "halacha"],
+      "overview": "Taharat HaMishpacha (Family Purity) governs the spiritual rhythm of Jewish marriage. During menstrual cycles and for seven clean days afterward, spouses maintain emotional intimacy without physical touch. Following preparation, the wife immerses in a kosher natural water bath (Mikvah), renewing intimacy with freshness.",
+      "historicalBackground": "Rabbi Akiva famously taught that observing Family Purity keeps mutual affection between spouses as fresh and exciting as their wedding day.",
+      "torahSources": [
+        "Leviticus 18:19: 'Also you shall not approach unto a woman... as long as she is put apart for her uncleanness.'",
+        "Leviticus 15:28: 'But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.'"
+      ],
+      "classicalCommentary": "Nachmanides notes that immersion in living waters (Mayim Chayim) represents spiritual rebirth, returning the individual to the pristine purity of the Garden of Eden.",
+      "bneiMenashePerspective": "Constructing community Mikvaot compliant with rigorous Sefardi Halachic standards in Churachandpur and Aizawl was a major historical milestone for Bnei Menashe return.",
+      "practicalLessons": [
+        "Communication over Physicality: Periodic separation trains couples to communicate deeply through words, listening, and emotional friendship."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What qualifies as kosher water for a Mikvah?",
+          "answer": "It must contain at least 40 seahs (~200 gallons) of natural rainwater or underground spring water collected without human intervention or vessels."
+        }
+      ],
+      "relatedTopics": ["Jewish Marriage Laws", "Modesty in Dress (Tzniut)"],
+      "difficultyLevel": "Advanced",
+      "suggestedFollowUpQuestions": [
+        "What preparations are made immediately before immersion in a Mikvah?"
+      ]
+    },
+    {
+      "id": "custom-netilat-yadayim",
+      "title": "Netilat Yadayim: Ritual Handwashing upon Awakening & Meals",
+      "hebrewTitle": "נְטִילַת יָדַיִם - קְדֻשַּׁת הַגּוּף",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Shabbat 108b; Shulchan Aruch O.C. 4, 158",
+      "tags": ["netilat yadayim", "handwashing", "bread", "morning", "purity", "blessing", "custom"],
+      "overview": "Netilat Yadayim is the ritual washing of hands using a dedicated two-handled vessel. Performed upon waking up in the morning (pouring three times alternately over right and left hands to remove sleep lethargy) and before eating meals containing bread (pouring twice or thrice over each hand followed by reciting 'Al Netilat Yadayim').",
+      "historicalBackground": "Derived from the washing performed by Temple priests from the copper laver before handling offerings, elevating every home dining table to the holiness of the Temple altar.",
+      "torahSources": [
+        "Psalms 24:3-4: 'Who shall ascend into the mountain of the Lord? ... He that has clean hands, and a pure heart.'"
+      ],
+      "classicalCommentary": "The Talmud states: 'Wash your hands immediately before eating bread, for holiness resides in physical cleanliness.'",
+      "bneiMenashePerspective": "Washing basins with two-handled cups sit at the entrance of every Bnei Menashe household and synagogue dining room, teaching children from infancy to sanctify their hands before eating.",
+      "practicalLessons": [
+        "Mindfulness of Action: Our hands execute our deeds; washing them reminds us to use them exclusively for honest, helpful work."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "Is a blessing recited when washing hands after using the restroom?",
+          "answer": "After washing hands thoroughly following restroom use, we recite the Asher Yatzar blessing thanking God for bodily health and complex biological functioning."
+        }
+      ],
+      "relatedTopics": ["Blessing Asher Yatzar", "Hamotzi Bread Blessing", "Birkat HaMazon"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "Why is water poured three times alternately over hands upon waking up?"
+      ]
+    },
+    {
+      "id": "custom-tzitzit-tallit",
+      "title": "Tzitzit & Tallit Katan: Daily Enwrapment in Divine Commandments",
+      "hebrewTitle": "צִיצִית וְטַלִּית קָטָן - מעטפת מצוות",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Numbers 15:37-41; Menachot 43b; Shulchan Aruch O.C. 8-24",
+      "tags": ["tzitzit", "tallit", "tallit katan", "fringes", "commandments", "techelet", "custom"],
+      "overview": "Tzitzit are specially knotted ritual fringes attached to the four corners of four-cornered garments. Men wear a four-cornered poncho undershirt (Tallit Katan) throughout the day, and drape a large prayer shawl (Tallit Gadol) over their shoulders during morning Shacharit services.",
+      "historicalBackground": "Each Tzitzit tassel contains 8 threads and 5 double knots, which numerically add up (along with the word Tzitzit = 600) to 613—representing all 613 commandments of the Torah.",
+      "torahSources": [
+        "Numbers 15:38-39: 'Speak unto the children of Israel... that they make them fringes in the corners of their garments... that you may look upon it, and remember all the commandments of the Lord, and do them.'"
+      ],
+      "classicalCommentary": "Talmud Menachot (43b) states that whoever diligently observes Tzitzit, Tefillin, and Mezuzah is protected from moral failure, as they are surrounded by divine reminders on their clothing, head, arm, and doorway.",
+      "bneiMenashePerspective": "In northern India and Israel, weaving white wool Tallitot with distinctive blue tribal stripes is a cherished cottage industry among Bnei Menashe artisan women.",
+      "practicalLessons": [
+        "Identity and Integrity: Wearing visible reminders of faith guards against peer pressure and ethical slips."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What is Techelet?",
+          "answer": "A biblical sky-blue dye extracted from the marine Murex trunculus snail used to color one of the Tzitzit threads, reminding the wearer of the sea, the sky, and the Divine Throne."
+        }
+      ],
+      "relatedTopics": ["Laws of Morning Tefillin", "Misheyakir Prayer Time"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "How many coils and knots are tied on standard Sefardi Tzitzit fringes?"
+      ]
+    },
+    {
+      "id": "custom-bikur-cholim",
+      "title": "Bikur Cholim: Visiting the Sick & Active Medical Compassion",
+      "hebrewTitle": "בִּקּוּר חוֹלִים - חֶסֶד שֶׁבַּגּוּף",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Nedarim 39b; Shulchan Aruch Yoreh Deah 335",
+      "tags": ["bikur cholim", "visiting sick", "compassion", "healing", "mitzvah", "kindness"],
+      "overview": "Bikur Cholim (Visiting the Sick) is an essential interpersonal Mitzvah with no fixed limit. It involves visiting hospitalized or homebound patients to ensure their physical needs are met, offering practical emotional comfort, and praying for their complete recovery.",
+      "historicalBackground": "Imitating God Himself, who visited Abraham on the third day following his circumcision while he sat at the entrance of his tent in the desert heat.",
+      "torahSources": [
+        "Genesis 18:1: 'And the Lord appeared unto him by the terebinths of Mamre, as he sat in the tent door in the heat of the day.'"
+      ],
+      "classicalCommentary": "Rabbi Akiva taught that visiting the sick removes one-sixtieth of their suffering. However, visitors must be sensitive not to exhaust the patient or stay too long when rest is required.",
+      "bneiMenashePerspective": "Bikur Cholim volunteer societies in Churachandpur and Nof HaGalil prepare home-cooked chicken soup and meals for convalescing community members, ensuring no one suffers alone.",
+      "practicalLessons": [
+        "Presence over Words: Often the most healing gift is simply sitting quietly with someone in pain without trying to force artificial cheerfulness."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "What traditional blessing is wished for a sick individual?",
+          "answer": "'Refuah Shleimah'—wishing them a complete healing of both body and spirit alongside all others in need."
+        }
+      ],
+      "relatedTopics": ["Reciting Psalms for Healing", "Nichum Aveilim"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What prayer is recited for patients during Torah reading (Mi Sheberach)?"
+      ]
+    },
+    {
+      "id": "custom-nichum-aveilim",
+      "title": "Nichum Aveilim: Comforting Mourners & The Seven Days of Shiva",
+      "hebrewTitle": "נִחוּם אֲבֵלִים - הִלְכוֹת שִׁבְעָה",
+      "category": "HALACHA_EDUCATION",
+      "citation": "Moed Katan 27b; Shulchan Aruch Yoreh Deah 375-393",
+      "tags": ["nichum aveilim", "mourning", "shiva", "kaddish", "comfort", "condolences"],
+      "overview": "Nichum Aveilim (Comforting Mourners) guides community support during bereavement. Following burial, immediate relatives sit Shiva for seven days in their home, sitting on low chairs, refraining from work and entertainment, while community members bring meals (Seudat Havra'ah) and sit in supportive silence until the mourner speaks first.",
+      "historicalBackground": "Derived from Job's friends who sat beside him on the ground for seven days and nights without uttering a word until Job opened his mouth.",
+      "torahSources": [
+        "Job 2:13: 'So they sat down with him upon the ground seven days and seven nights, and none spoke a word unto him; for they saw that his grief was very great.'"
+      ],
+      "classicalCommentary": "Shulchan Aruch mandates reciting the traditional departure formula: 'May the Omnipresent comfort you among the other mourners of Zion and Jerusalem.'",
+      "bneiMenashePerspective": "During Shiva houses in Bnei Menashe centers, neighbors organize daily Minyanim so mourners can recite Kaddish at home, surrounding the family with tribal solidarity.",
+      "practicalLessons": [
+        "Respecting Grief: Do not offer empty philosophical platitudes ('It was meant to be'); offer empathetic silence and practical assistance."
+      ],
+      "frequentlyAskedQuestions": [
+        {
+          "question": "How long do children recite Kaddish for a deceased parent?",
+          "answer": "For eleven months following burial, reciting daily Mourner's Kaddish during public services."
+        }
+      ],
+      "relatedTopics": ["Bikur Cholim", "Laws of Kaddish and Yahrzeit"],
+      "difficultyLevel": "Beginner",
+      "suggestedFollowUpQuestions": [
+        "What happens on the annual Yahrzeit anniversary of a loved one's passing?"
+      ]
+    }
+  ]
+}
